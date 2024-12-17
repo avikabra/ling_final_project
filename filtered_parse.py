@@ -248,13 +248,13 @@ end_subj_idx = 1
 # print([(token.dep_, token.pos_, token.tag_, token.head.text, token.lemma_) for token in doc])
 
 match_count = 0
-train = pd.read_csv("dev.csv")     
-print(train.shape)
+data = pd.read_csv("dev.csv")     
+print(data.shape)
 results = []
 
 agreement_count = [0, 0, 0]
 
-for _, row in train.iterrows():
+for _, row in data.iterrows():
     start = row["startphrase"]
     ending1 = row["ending1"]
     ending2 = row["ending2"]
