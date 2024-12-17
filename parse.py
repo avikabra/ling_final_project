@@ -230,7 +230,7 @@ doc = nlp("The girl is as easy to see through as a bowl of grape jelly")
 # print(apply_template("The girl is as easy to see through as a bowl of grape jelly", "The girl is hard to figure out.", "The girl is easy to read.", patterns[1], end_patterns, 4, 3, 1))
 
 match_count = 0
-train = pd.read_csv("train.csv")     
+train = pd.read_csv("test.csv")     
 print(train.shape)
 results = []
 
@@ -254,6 +254,6 @@ for _, row in train.iterrows():
     if not found_match: print(start, ending1, ending2)
 
 print(match_count)
-output_file_path = "rearranged_train.csv"
+output_file_path = "rearranged_test.csv"
 output_df = pd.DataFrame(results)
 output_df.to_csv(output_file_path, index=False)
