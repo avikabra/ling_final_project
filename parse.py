@@ -230,7 +230,7 @@ doc = nlp("The girl is as easy to see through as a bowl of grape jelly")
 # print(apply_template("The girl is as easy to see through as a bowl of grape jelly", "The girl is hard to figure out.", "The girl is easy to read.", patterns[1], end_patterns, 4, 3, 1))
 
 match_count = 0
-train = pd.read_csv("test.csv")     
+train = pd.read_csv("dev-combined.csv")     
 print(train.shape)
 results = []
 
@@ -245,7 +245,19 @@ for _, row in train.iterrows():
         pattern, subj_idx, simile_idx = patterns[i], subj_indices[i], simile_indices[i]
         object, modified1, modified2 = apply_template(start, ending1, ending2, pattern, end_patterns, subj_idx, simile_idx, end_subj_idx)
         if object != None:
-            results.append({"startphrase": start, "ending1": ending1, "ending2": ending2, "object": object, "modified_1": modified1, "modified_2": modified2, "labels": row["labels"], "qid": row["qid"]})
+            results.append({"startphrase": start,
+                            "ending1": ending1,
+                            "ending2": ending2,
+                            "object": object,
+                            "modified_1": modified1,
+                            "modified_2": modified2,
+                            "labels": row["labels"],
+                            "qid": row["qid"],
+                            "obj": row["obj"],
+                            "vis": row["vis"],
+                            "soc": row["soc"],
+                            "cul": row["cul"],
+                            "num_labels": row["num_labels"]})
             # print(start, ending1, ending2)
             # print("Object:", object, "; Phrase 1:", modified1, "; Phrase 2:", modified2)
             match_count += 1
@@ -254,6 +266,6 @@ for _, row in train.iterrows():
     if not found_match: print(start, ending1, ending2)
 
 print(match_count)
-output_file_path = "rearranged_test.csv"
+output_file_path = "rearranged_dev.csv"
 output_df = pd.DataFrame(results)
 output_df.to_csv(output_file_path, index=False)
