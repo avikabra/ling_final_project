@@ -272,6 +272,7 @@ for _, row in data.iterrows():
                 root_verb1, root_verb2 = nlp(modified1)[0].sent.root.text, nlp(modified2)[0].sent.root.text 
                 results.append({"startphrase": start, "ending1": ending1, "ending2": ending2, "object": object, "modified_1": modified1, "modified_2": modified2, "verb_1": root_verb1, "verb_2": root_verb2, "labels": row["labels"], "qid": row["qid"]})
                 match_count += 1
+                break
 
 # print(agreement_count)
 print("Found", match_count, "matches.")
