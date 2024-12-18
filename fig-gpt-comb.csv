@@ -1,0 +1,701 @@
+modified_1,modified_2,object1,object2,labels,ending,qid,result,obj,vis,soc,cul,num_labels
+A sparrow was very fickle.,A rock was very fickle.,a sparrow,a rock,0,0,1,1,1,0,0,0,1
+A sparrow was very stable.,A rock was very stable.,a sparrow,a rock,1,1,1,1,1,0,0,0,1
+A church was very peaceful.,A battlefield was very peaceful.,a church,a battlefield,0,0,3,1,1,0,0,1,2
+"A church was full of conflict and danger, not peace.","A battlefield was full of conflict and danger, not peace.",a church,a battlefield,1,1,3,1,1,0,0,1,2
+Grass were very green,Dirt were very green,grass,dirt,0,0,4,1,1,0,0,1,2
+Grass were brown and not green at all.,Dirt were brown and not green at all.,grass,dirt,1,1,4,0,1,0,0,1,2
+An amputation on the wrong limb is the wrong solution to a problem,An amputation to save your life is the wrong solution to a problem,an amputation on the wrong limb,an amputation to save your life,0,0,8,1,1,1,0,0,2
+An amputation on the wrong limb is a necessary solution,An amputation to save your life is a necessary solution,an amputation on the wrong limb,an amputation to save your life,1,1,8,1,1,1,0,0,2
+Grass's fairy green,Grass's fairy green,grass,grass,0,0,12,1,0,0,1,0,1
+Grass's not too green,Grass's not too green,grass,grass,1,1,12,0,0,0,1,0,1
+A siren was very loud.,A whisper was very loud.,a siren,a whisper,0,0,15,1,1,1,0,0,2
+A siren was very quiet.,A whisper was very quiet.,a siren,a whisper,1,1,15,0,1,1,0,0,2
+A human flying is impossible,A human walking is impossible,a human flying,a human walking,0,0,18,1,1,0,0,0,1
+A human flying is possible,A human walking is possible,a human flying,a human walking,1,1,18,0,1,0,0,0,1
+A one eyed rat was hideous,A swan was hideous,a one eyed rat,a swan,0,0,21,1,1,0,0,0,1
+A one eyed rat was beautiful,A swan was beautiful,a one eyed rat,a swan,1,1,21,1,1,0,0,0,1
+A prince was good looking,A hobo was good looking,a prince,a hobo,0,0,23,1,1,0,0,0,1
+A prince was ugly,A hobo was ugly,a prince,a hobo,1,1,23,0,1,0,0,0,1
+A mother holding a baby held it with pride and care,A playboy holding a condom held it with pride and care,a mother holding a baby,a playboy holding a condom,0,0,28,1,1,1,0,0,2
+A mother holding a baby held it with disgust and caution,A playboy holding a condom held it with disgust and caution,a mother holding a baby,a playboy holding a condom,1,1,28,1,1,1,0,0,2
+A lion was starving,A piece of paper was starving,a lion,a piece of paper,0,0,41,1,1,1,0,0,2
+A lion didn't need food,A piece of paper didn't need food,a lion,a piece of paper,1,1,41,0,1,1,0,0,2
+Artillery bombardments were heated and antagonistic.,A hug with words were heated and antagonistic.,artillery bombardments,a hug with words,0,0,45,1,0,0,1,0,1
+Artillery bombardments were friendly.,A hug with words were friendly.,artillery bombardments,a hug with words,1,1,45,0,0,0,1,0,1
+A nightmare was very disturbing.,A newborn puppy was very disturbing.,a nightmare,a newborn puppy,0,0,48,1,0,0,1,0,1
+"A nightmare failed to be disturbing, and in fact seemed cute.","A newborn puppy failed to be disturbing, and in fact seemed cute.",a nightmare,a newborn puppy,1,1,48,0,0,0,1,0,1
+Concrete was very certain of his opinion,A cotton ball was very certain of his opinion,concrete,a cotton ball,0,0,57,1,0,0,1,0,1
+Concrete was very uncertain of his opinion,A cotton ball was very uncertain of his opinion,concrete,a cotton ball,1,1,57,0,0,0,1,0,1
+A rainbow has a lot of color.,A sidewalk has a lot of color.,a rainbow,a sidewalk,0,0,65,1,1,0,0,0,1
+A rainbow was dull and colorless.,A sidewalk was dull and colorless.,a rainbow,a sidewalk,1,1,65,1,1,0,0,0,1
+A beaver is excited,A sloth is excited,a beaver,a sloth,0,0,69,1,1,0,0,0,1
+A beaver is bored,A sloth is bored,a beaver,a sloth,1,1,69,0,1,0,0,0,1
+A babbling drunk is barely running,A roaring lion is barely running,a Babbling drunk,a Roaring lion,0,0,73,0,1,0,0,0,1
+A babbling drunk is running strong,A roaring lion is running strong,a Babbling drunk,a Roaring lion,1,1,73,1,1,0,0,0,1
+A russian novel was long.,An airport paperback was long.,a Russian novel,an airport paperback,0,0,81,1,0,0,1,0,1
+A russian novel was tawdry.,An airport paperback was tawdry.,a Russian novel,an airport paperback,1,1,81,1,0,0,1,0,1
+A museum was very clean.,A paintball arena was very clean.,a museum,a paintball arena,0,0,84,0,0,0,1,0,1
+A museum was a mess.,A paintball arena was a mess.,a museum,a paintball arena,1,1,84,1,0,0,1,0,1
+A secondhand toy weren't fresh.,An early summer morning weren't fresh.,a secondhand toy,an early summer morning,0,0,94,1,1,0,0,0,1
+A secondhand toy were very fresh.,An early summer morning were very fresh.,a secondhand toy,an early summer morning,1,1,94,0,1,0,0,0,1
+An execution was not fun,Roller coaster was not fun,an execution,roller coaster,0,0,97,0,1,1,0,0,2
+An execution was fun,Roller coaster was fun,an execution,roller coaster,1,1,97,1,1,1,0,0,2
+Pancakes for breakfast was very classic.,A bride wearing purple was very classic.,pancakes for breakfast,a bride wearing purple,0,0,105,0,1,0,0,0,1
+Pancakes for breakfast wasn't a classic.,A bride wearing purple wasn't a classic.,pancakes for breakfast,a bride wearing purple,1,1,105,1,1,0,0,0,1
+A quarter was recent,A quarter was recent,A quarter,A quarter,0,0,108,1,0,0,1,0,1
+A quarter was dated.,A quarter was dated.,A quarter,A quarter,1,1,108,0,0,0,1,0,1
+A tree was tall,A footstool was tall,a tree,a footstool,0,0,111,1,0,0,1,0,1
+A tree was short,A footstool was short,a tree,a footstool,1,1,111,1,0,0,1,0,1
+A robot is not very joyful.,A dog is not very joyful.,a robot,a dog,0,0,114,1,1,0,0,1,2
+A robot is very joyful.,A dog is very joyful.,a robot,a dog,1,1,114,1,1,0,0,1,2
+A canyon is deeply philosophical.,A pothole is deeply philosophical.,A canyon,A pothole,0,0,116,0,1,0,0,1,2
+A canyon has little substance.,A pothole has little substance.,A canyon,A pothole,1,1,116,1,1,0,0,1,2
+The movie is expansive in a valley's meaning.,The movie is expansive in a flatland's meaning.,A valley,A flatland,0,0,117,1,1,0,0,0,1
+A valley lacks depth.,A flatland lacks depth.,A valley,A flatland,1,1,117,1,1,0,0,0,1
+An elephant was a lumbering clod,A snowflake was a lumbering clod,An elephant,A snowflake,0,0,123,1,1,0,0,0,1
+An elephant was fragile,A snowflake was fragile,An elephant,A snowflake,1,1,123,1,1,0,0,0,1
+A fortune 500 company was a wild success.,The 1962 new york mets was a wild success.,a Fortune 500 company,the 1962 New York Mets,0,0,127,0,0,0,0,1,1
+A fortune 500 company did terribly.,The 1962 new york mets did terribly.,a Fortune 500 company,the 1962 New York Mets,1,1,127,1,0,0,0,1,1
+A prom queen is elegant,Dish water is elegant,a prom queen,dish water,0,0,137,1,0,0,0,1,1
+A prom queen is dirty,Dish water is dirty,a prom queen,dish water,1,1,137,0,0,0,0,1,1
+The sun was luminous,The reflection of a dusty mirror was luminous,the sun,the reflection of a dusty mirror,0,0,141,0,0,0,0,1,1
+The sun was dull,The reflection of a dusty mirror was dull,the sun,the reflection of a dusty mirror,1,1,141,1,0,0,0,1,1
+The size of an ape was huge.,The size of an ant was huge.,the size of an ape,the size of an ant,0,0,146,1,0,0,0,1,1
+The size of an ape was small.,The size of an ant was small.,the size of an ape,the size of an ant,1,1,146,0,0,0,0,1,1
+An ameba was too simplistic.,All the paintings in the louvre was too simplistic.,an ameba,all the paintings in the Louvre,0,0,147,1,1,0,0,0,1
+An ameba was very complex and beautiful.,All the paintings in the louvre was very complex and beautiful.,an ameba,all the paintings in the Louvre,1,1,147,1,1,0,0,0,1
+A 25-year-old tapeworm's extremely long,Howie mandel's hair's extremely long,a 25-year-old tapeworm,Howie Mandel's hair,0,0,154,0,1,1,0,0,2
+A 25-year-old tapeworm's as short as can be,Howie mandel's hair's as short as can be,a 25-year-old tapeworm,Howie Mandel's hair,1,1,154,1,1,1,0,0,2
+An entrepreneur has talant,A blind otter has talant,an entrepreneur,a blind otter,0,0,161,1,1,0,0,0,1
+An entrepreneur was talentless,A blind otter was talentless,an entrepreneur,a blind otter,1,1,161,0,1,0,0,0,1
+A movie star was fancy,An old shoe was fancy,a movie star,an old shoe,0,0,162,0,1,0,0,0,1
+A movie star was unkempt,An old shoe was unkempt,a movie star,an old shoe,1,1,162,1,1,0,0,0,1
+A pool with no water was useless,Silverware during dinner was useless,a pool with no water,silverware during dinner,0,0,168,0,1,0,0,0,1
+A pool with no water was helpful,Silverware during dinner was helpful,a pool with no water,silverware during dinner,1,1,168,1,1,0,0,0,1
+A mayfly is never eating,A tarrare is never eating,a mayfly,a tarrare,0,0,173,1,1,0,0,0,1
+A mayfly never ceases eating,A tarrare never ceases eating,a mayfly,a tarrare,1,1,173,0,1,0,0,0,1
+A scrambled egg was hard to understand.,A kiddie puzzle was hard to understand.,a scrambled egg,a kiddie puzzle,0,0,178,1,0,0,0,1,1
+A scrambled egg was easy to understand.,A kiddie puzzle was easy to understand.,a scrambled egg,a kiddie puzzle,1,1,178,1,0,0,0,1,1
+A volcano is hot,An iceberg is hot,a volcano,an iceberg,0,0,183,1,0,0,0,1,1
+A volcano is cold,An iceberg is cold,a volcano,an iceberg,1,1,183,1,0,0,0,1,1
+A snail was slow.,A cheetah was slow.,a snail,a cheetah,0,0,184,1,0,0,0,1,1
+A snail was fast.,A cheetah was fast.,a snail,a cheetah,1,1,184,1,0,0,0,1,1
+A monk is very patient.,A cat is very patient.,a monk,a cat,0,0,188,0,1,0,0,0,1
+A monk is very impatient.,A cat is very impatient.,a monk,a cat,1,1,188,1,1,0,0,0,1
+A rainbow is vibrant,A cloudy sky is vibrant,a rainbow,a cloudy sky,0,0,192,1,1,1,0,0,2
+A rainbow is dull,A cloudy sky is dull,a rainbow,a cloudy sky,1,1,192,1,1,1,0,0,2
+A work of art was attractive,A trash was attractive,a work of art,a trash,0,0,194,0,1,0,0,0,1
+A work of art was ugly,A trash was ugly,a work of art,a trash,1,1,194,1,1,0,0,0,1
+The universe itself's very old,The baby that will be born tomorrow's very old,the universe itself,the baby that will be born tomorrow,0,0,196,0,1,0,0,0,1
+The universe itself's brand new,The baby that will be born tomorrow's brand new,the universe itself,the baby that will be born tomorrow,1,1,196,1,1,0,0,0,1
+The greek god aeolus can blow a lot,An unplugged hairdryer can blow a lot,the Greek god Aeolus,an unplugged hairdryer,0,0,197,0,1,0,0,0,1
+The greek god aeolus can hardly blow at all,An unplugged hairdryer can hardly blow at all,the Greek god Aeolus,an unplugged hairdryer,1,1,197,1,1,0,0,0,1
+A towelette was moist.,Sandpaper was moist.,a towelette,sandpaper,0,0,201,1,1,0,0,0,1
+A towelette was dry.,Sandpaper was dry.,a towelette,sandpaper,1,1,201,0,1,0,0,0,1
+A lady bug was small.,A elephant was small.,a lady bug,a elephant,0,0,206,1,0,0,1,0,1
+A lady bug was big.,A elephant was big.,a lady bug,a elephant,1,1,206,0,0,0,1,0,1
+A mud puddle is dull,Diamond is dull,a mud puddle,diamond,0,0,213,1,0,0,1,0,1
+A mud puddle is bright,Diamond is bright,a mud puddle,diamond,1,1,213,1,0,0,1,0,1
+A bottle of champagne was effusive.,A lullaby was effusive.,a bottle of champagne,a lullaby,0,0,216,1,0,0,0,1,1
+A bottle of champagne didn't really explode at all.,A lullaby didn't really explode at all.,a bottle of champagne,a lullaby,1,1,216,0,0,0,0,1,1
+A tootsie roll was small.,Antarctica was small.,a Tootsie Roll,Antarctica,0,0,217,1,0,0,0,1,1
+A tootsie roll was large.,Antarctica was large.,a Tootsie Roll,Antarctica,1,1,217,0,0,0,0,1,1
+A basektball center was tall,A midget was tall,a basektball center,a midget,0,0,233,0,1,0,0,0,1
+A basektball center was short,A midget was short,a basektball center,a midget,1,1,233,1,1,0,0,0,1
+A wild fire is spreading quickly,A growth of a finger nail is spreading quickly,a wild fire,a growth of a finger nail,0,0,237,1,1,0,0,0,1
+A wild fire is spreading slowly,A growth of a finger nail is spreading slowly,a wild fire,a growth of a finger nail,1,1,237,0,1,0,0,0,1
+A skyscraper was tall.,An anthill was tall.,a skyscraper,an anthill,0,0,245,1,1,0,0,0,1
+A skyscraper was short.,An anthill was short.,a skyscraper,an anthill,1,1,245,1,1,0,0,0,1
+A bunch of feathers is not important,A city-wide ripple effect is not important,A bunch of feathers,A city-wide ripple effect,0,0,253,1,1,0,0,0,1
+A bunch of feathers has a major impact,A city-wide ripple effect has a major impact,A bunch of feathers,A city-wide ripple effect,1,1,253,1,1,0,0,0,1
+A parent helps,A dead bird helps,a parent,a dead bird,0,0,254,1,1,0,0,0,1
+A parent doesn't help,A dead bird doesn't help,a parent,a dead bird,1,1,254,1,1,0,0,0,1
+A horse's chestnut mane was shiny,Straw was shiny,a horse's chestnut mane,straw,0,0,259,1,1,0,0,0,1
+A horse's chestnut mane was dull,Straw was dull,a horse's chestnut mane,straw,1,1,259,0,1,0,0,0,1
+A light bulb was brilliant,A rock was brilliant,a light bulb,a rock,0,0,260,1,1,0,0,0,1
+A light bulb was not so smart.,A rock was not so smart.,a light bulb,a rock,1,1,260,0,1,0,0,0,1
+A winter cabin on a cold night was comfortable to be in.,A prison cell was comfortable to be in.,a winter cabin on a cold night,a prison cell,0,0,268,1,0,0,1,0,1
+A winter cabin on a cold night was uncomfortable to be in.,A prison cell was uncomfortable to be in.,a winter cabin on a cold night,a prison cell,1,1,268,0,0,0,1,0,1
+An elephant was sturdy and not fragile,A crystal teacup was sturdy and not fragile,an elephant,a crystal teacup,0,0,274,0,0,0,1,0,1
+An elephant was extremely fragile,A crystal teacup was extremely fragile,an elephant,a crystal teacup,1,1,274,1,0,0,1,0,1
+A horse is ugly,A bird is ugly,a horse,a bird,0,0,276,1,1,1,0,0,2
+A horse is dainty,A bird is dainty,a horse,a bird,1,1,276,0,1,1,0,0,2
+Mike tyson was great,Mike tyson was great,mike tyson,mike tyson,0,0,277,1,1,0,0,0,1
+Mike tyson was bad,Mike tyson was bad,mike tyson,mike tyson,1,1,277,0,1,0,0,0,1
+A dog at a spelling bee didn't know what was going on,A lawyer in court didn't know what was going on,a dog at a spelling bee,a lawyer in court,0,0,278,1,1,0,0,0,1
+A dog at a spelling bee knew everything,A lawyer in court knew everything,a dog at a spelling bee,a lawyer in court,1,1,278,0,1,0,0,0,1
+A parade was busy,A graveyard was busy,a parade,a graveyard,0,0,281,0,1,0,0,0,1
+A parade was abandoned and not busy,A graveyard was abandoned and not busy,a parade,a graveyard,1,1,281,1,1,0,0,0,1
+Vanilla ice cream has no new ideas.,Caramel balsamic swirl ice cream has no new ideas.,vanilla ice cream,caramel balsamic swirl ice cream,0,0,284,1,0,0,0,1,1
+Vanilla ice cream is very creative.,Caramel balsamic swirl ice cream is very creative.,vanilla ice cream,caramel balsamic swirl ice cream,1,1,284,1,0,0,0,1,1
+Steel is strong,Silk is strong,steel,silk,0,0,292,1,0,0,0,1,1
+Steel is weak,Silk is weak,steel,silk,1,1,292,0,0,0,0,1,1
+A garbage bag is ugly,A rose bush is ugly,a Garbage bag,a Rose bush,0,0,301,1,1,0,0,0,1
+A garbage bag is pretty,A rose bush is pretty,a Garbage bag,a Rose bush,1,1,301,1,1,0,0,0,1
+A doctor is well respected,A conspiracy theorist is well respected,A doctor,A conspiracy theorist,0,0,303,1,1,1,0,0,2
+A doctor is not highly respected,A conspiracy theorist is not highly respected,A doctor,A conspiracy theorist,1,1,303,1,1,1,0,0,2
+A penny stock is unpredictable,A finely-tuned piano is unpredictable,a penny stock,a finely-tuned piano,0,0,306,0,1,1,0,0,2
+A penny stock is dependable,A finely-tuned piano is dependable,a penny stock,a finely-tuned piano,1,1,306,1,1,1,0,0,2
+A turtle is slow,A bolt of lightning is slow,a turtle,a bolt of lightning,0,0,322,1,1,0,0,0,1
+A turtle is speedy,A bolt of lightning is speedy,a turtle,a bolt of lightning,1,1,322,1,1,0,0,0,1
+A broken bridge is falling apart,A brick house is falling apart,a broken bridge,a brick house,0,0,335,1,1,1,0,1,3
+A broken bridge is very strong and stable.,A brick house is very strong and stable.,a broken bridge,a brick house,1,1,335,1,1,1,0,1,3
+A dog on a car ride is excited,A sloth in bed is excited,a dog on a car ride,a sloth in bed,0,0,339,1,1,1,0,1,3
+A dog on a car ride is tired,A sloth in bed is tired,a dog on a car ride,a sloth in bed,1,1,339,0,1,1,0,1,3
+A steel beam was sturdy enough to hold a lot of weight.,A twig was sturdy enough to hold a lot of weight.,a steel beam,a twig,0,0,344,0,1,1,0,1,3
+A steel beam was weak and could snap easily.,A twig was weak and could snap easily.,a steel beam,a twig,1,1,344,1,1,1,0,1,3
+A sleeping tortoise is dull.,A lottery jackpot is dull.,a sleeping tortoise,a lottery jackpot,0,0,351,1,1,1,0,1,3
+A sleeping tortoise is rousing.,A lottery jackpot is rousing.,a sleeping tortoise,a lottery jackpot,1,1,351,0,1,1,0,1,3
+A mountain is tall,A footstool is tall,a mountain,a footstool,0,0,356,1,1,0,0,0,1
+A mountain is short,A footstool is short,a mountain,a footstool,1,1,356,1,1,0,0,0,1
+A castle is pretty,Roadkill is pretty,a castle,roadkill,0,0,361,1,1,1,0,0,2
+A castle is ugly,Roadkill is ugly,a castle,roadkill,1,1,361,1,1,1,0,0,2
+Gold were valuable,Dirt were valuable,gold,dirt,0,0,365,1,1,0,0,0,1
+Gold were worthless,Dirt were worthless,gold,dirt,1,1,365,0,1,0,0,0,1
+Pie was easy,Brain surgery was easy,pie,brain surgery,0,0,366,0,0,0,1,0,1
+Pie was hard.,Brain surgery was hard.,pie,brain surgery,1,1,366,1,0,0,1,0,1
+Apple pie was very popular.,A root canal was very popular.,apple pie,a root canal,0,0,367,1,0,0,1,0,1
+Apple pie was very unpopular.,A root canal was very unpopular.,apple pie,a root canal,1,1,367,0,0,0,1,0,1
+A funeral procession was not lively at all.,A group of children in a bouncy house was not lively at all.,a funeral procession,a group of children in a bouncy house,0,0,368,0,1,1,0,0,2
+A funeral procession was very lively.,A group of children in a bouncy house was very lively.,a funeral procession,a group of children in a bouncy house,1,1,368,1,1,1,0,0,2
+A bride picking out her dress shopped with great care,A robber getting away shopped with great care,a bride picking out her dress,a robber getting away,0,0,372,1,1,1,0,0,2
+A bride picking out her dress shopped in a hurry,A robber getting away shopped in a hurry,a bride picking out her dress,a robber getting away,1,1,372,0,1,1,0,0,2
+Swamp water smells bad.,A grandmother's kitchen smells bad.,swamp water,a grandmother's kitchen,0,0,377,1,0,0,1,0,1
+Swamp water smells flavorsome.,A grandmother's kitchen smells flavorsome.,swamp water,a grandmother's kitchen,1,1,377,0,0,0,1,0,1
+An inkblot test is out of focus.,A full rainbow is out of focus.,an inkblot test,a full rainbow,0,0,378,0,0,0,1,0,1
+An inkblot test is crystal clear.,A full rainbow is crystal clear.,an inkblot test,a full rainbow,1,1,378,1,0,0,1,0,1
+A kennedy has good political skills,A newborn baby has good political skills,a Kennedy,a newborn baby,0,0,380,0,1,0,0,0,1
+A kennedy lacks skill in politics,A newborn baby lacks skill in politics,a Kennedy,a newborn baby,1,1,380,0,1,0,0,0,1
+A comedian was funny,A dead fly was funny,a comedian,a dead fly,0,0,384,1,1,0,0,0,1
+A comedian wasn't funny,A dead fly wasn't funny,a comedian,a dead fly,1,1,384,0,1,0,0,0,1
+A chess move was calculated.,An avalanche was calculated.,a chess move,an avalanche,0,0,386,1,0,0,0,1,1
+A chess move was chaotic.,An avalanche was chaotic.,a chess move,an avalanche,1,1,386,0,0,0,0,1,1
+A viper was very dangerous,A flea was very dangerous,a viper,a flea,0,0,389,1,0,0,0,1,1
+A viper was not dangerous,A flea was not dangerous,a viper,a flea,1,1,389,0,0,0,0,1,1
+The surface of the sun was scalding hot,An icicle was scalding hot,the surface of the sun,an icicle,0,0,390,1,1,0,0,0,1
+The surface of the sun was cold,An icicle was cold,the surface of the sun,an icicle,1,1,390,0,1,0,0,0,1
+A deserting soldier lacked conviction.,A revivalist preacher lacked conviction.,a deserting soldier,a revivalist preacher,0,0,393,0,1,0,0,0,1
+A deserting soldier was full of conviction.,A revivalist preacher was full of conviction.,a deserting soldier,a revivalist preacher,1,1,393,1,1,0,0,0,1
+Legalese totally bored me.,A trashy magazine headline totally bored me.,legalese,a trashy magazine headline,0,0,422,1,0,1,0,0,1
+Legalese really interested me.,A trashy magazine headline really interested me.,legalese,a trashy magazine headline,1,1,422,0,0,1,0,0,1
+A yo-yo were all over the place.,A spring stream were all over the place.,a yo-yo,a spring stream,0,0,423,0,1,0,0,1,2
+A yo-yo were steady.,A spring stream were steady.,a yo-yo,a spring stream,1,1,423,1,1,0,0,1,2
+A ritz cracker was very fragile.,A brick building was very fragile.,a Ritz cracker,a brick building,0,0,424,1,1,0,0,0,1
+A ritz cracker was unshakeable.,A brick building was unshakeable.,a Ritz cracker,a brick building,1,1,424,0,1,0,0,0,1
+A good as lincoln's gettysburg address was sycinct and powerful,A good as a college professor dense lecture was sycinct and powerful,a good as Lincoln's Gettysburg Address,a good as a college professor dense lecture,0,0,439,1,1,1,0,0,2
+A good as lincoln's gettysburg address was overbearing and boring.,A good as a college professor dense lecture was overbearing and boring.,a good as Lincoln's Gettysburg Address,a good as a college professor dense lecture,1,1,439,1,1,1,0,0,2
+The moon is very cheesy,A pizza without the primary topping is very cheesy,the moon,a pizza without the primary topping,0,0,458,0,0,0,0,1,1
+The moon lacks cheese,A pizza without the primary topping lacks cheese,the moon,a pizza without the primary topping,1,1,458,0,0,0,0,1,1
+Metal roofing has a high wind resistance,Candy wrapper has a high wind resistance,metal roofing,candy wrapper,0,0,459,1,1,0,0,1,2
+Metal roofing has almost no resistance to wind,Candy wrapper has almost no resistance to wind,metal roofing,candy wrapper,1,1,459,0,1,0,0,1,2
+A hungry tiger in a hen house has high survivability,A paper bag in a stormy ocean has high survivability,a hungry tiger in a hen house,a paper bag in a stormy ocean,0,0,460,1,1,0,0,1,2
+A hungry tiger in a hen house has a low survivability rate,A paper bag in a stormy ocean has a low survivability rate,a hungry tiger in a hen house,a paper bag in a stormy ocean,1,1,460,0,1,0,0,1,2
+An acrobat rode it well,A seizure victim rode it well,An acrobat,A seizure victim,0,0,461,1,1,0,0,0,1
+An acrobat rode it poorly,A seizure victim rode it poorly,An acrobat,A seizure victim,1,1,461,0,1,0,0,0,1
+A cement block is dull,A legless marathon runner is dull,A cement block,A legless marathon runner,0,0,462,1,1,0,0,0,1
+A cement block is motivating,A legless marathon runner is motivating,A cement block,A legless marathon runner,1,1,462,1,1,0,0,0,1
+Oil was slippery.,Sandpaper was slippery.,oil,sandpaper,0,0,468,0,1,0,0,0,1
+Oil wasn't slippery at all.,Sandpaper wasn't slippery at all.,oil,sandpaper,1,1,468,1,1,0,0,0,1
+A bad toupee was obviously fake.,The air we breathe was obviously fake.,a bad toupee,the air we breathe,0,0,469,1,1,0,0,0,1
+A bad toupee was obviously real.,The air we breathe was obviously real.,a bad toupee,the air we breathe,1,1,469,1,1,0,0,0,1
+A collapsing tower was not reliable.,A battleship was not reliable.,a collapsing tower,a battleship,0,0,482,0,1,0,0,0,1
+A collapsing tower was very reliable.,A battleship was very reliable.,a collapsing tower,a battleship,1,1,482,1,1,0,0,0,1
+Silk in my hands is hard to put down.,Hard-cover amnesia is hard to put down.,silk in my hands,hard-cover amnesia,0,0,498,0,1,1,0,0,2
+Silk in my hands is forgettable.,Hard-cover amnesia is forgettable.,silk in my hands,hard-cover amnesia,1,1,498,0,1,1,0,0,2
+A laser was sharp,A stick was sharp,a laser,a stick,0,0,504,0,1,0,0,0,1
+A laser was dull,A stick was dull,a laser,a stick,1,1,504,0,1,0,0,0,1
+A thanksgiving dinner with all the trimmings was satisfying.,A stale saltine cracker was satisfying.,a Thanksgiving dinner with all the trimmings,a stale saltine cracker,0,0,509,1,1,0,0,0,1
+A thanksgiving dinner with all the trimmings was unsatisfying.,A stale saltine cracker was unsatisfying.,a Thanksgiving dinner with all the trimmings,a stale saltine cracker,1,1,509,1,1,0,0,0,1
+A rock is dumb,A computer is dumb,a rock,a computer,0,0,511,0,1,0,0,0,1
+A rock is intelligent,A computer is intelligent,a rock,a computer,1,1,511,1,1,0,0,0,1
+A contract on a napkin wasn't meaningful at all.,An international treaty wasn't meaningful at all.,a contract on a napkin,an international treaty,0,0,523,1,1,0,0,0,1
+A contract on a napkin was highly meaningful.,An international treaty was highly meaningful.,a contract on a napkin,an international treaty,1,1,523,0,1,0,0,0,1
+A diamond is very strong.,A piece of graphite is very strong.,a diamond,a piece of graphite,0,0,531,1,1,0,0,1,2
+A diamond is weak.,A piece of graphite is weak.,a diamond,a piece of graphite,1,1,531,1,1,0,0,1,2
+A master chef is very satisfied,A master chef aftet making a bowl of canned 🍝 is very satisfied,a master chef,a master chef aftet making a bowl of canned 🍝,0,0,532,0,1,0,0,1,2
+A master chef has very little satisfaction,A master chef aftet making a bowl of canned 🍝 has very little satisfaction,a master chef,a master chef aftet making a bowl of canned 🍝,1,1,532,1,1,0,0,1,2
+A gnat is flighty and unfocused,A tectonic plate is flighty and unfocused,a gnat,a tectonic plate,0,0,535,1,0,0,1,0,1
+A gnat applies pressure consistently and over time.,A tectonic plate applies pressure consistently and over time.,a gnat,a tectonic plate,1,1,535,1,0,0,1,0,1
+A mere trickle felt little desire,A surging wave felt little desire,a mere trickle,a surging wave,0,0,537,1,0,0,1,1,2
+A mere trickle felt a strong desire,A surging wave felt a strong desire,a mere trickle,a surging wave,1,1,537,0,0,0,1,1,2
+A picky child has poor taste in things.,The queen of england has poor taste in things.,a picky child,the Queen of England,0,0,539,1,0,0,1,1,2
+A picky child has exquisite and fine taste in things.,The queen of england has exquisite and fine taste in things.,a picky child,the Queen of England,1,1,539,0,0,0,1,1,2
+A saint is very patient,A bull is very patient,a saint,a bull,0,0,547,0,1,0,0,0,1
+A saint is not patient at all,A bull is not patient at all,a saint,a bull,1,1,547,1,1,0,0,0,1
+A puppy dog is very moral and kind.,A vulture is very moral and kind.,a puppy dog,a vulture,0,0,552,1,1,0,0,0,1
+A puppy dog is not very moral or kind.,A vulture is not very moral or kind.,a puppy dog,a vulture,1,1,552,1,1,0,0,0,1
+A runaway horse was wild.,A snail was wild.,a runaway horse,a snail,0,0,554,0,1,1,0,0,2
+A runaway horse was dormant.,A snail was dormant.,a runaway horse,a snail,1,1,554,1,1,1,0,0,2
+The wind was fast.,A tortoise was fast.,the wind,a tortoise,0,0,558,1,0,0,0,1,1
+The wind was slow.,A tortoise was slow.,the wind,a tortoise,1,1,558,0,0,0,0,1,1
+The gaze of an angry parochial school teacher was cold,A vacation to hades was cold,the gaze of an angry parochial school teacher,a vacation to Hades,0,0,568,1,0,0,0,1,1
+The gaze of an angry parochial school teacher was very hot,A vacation to hades was very hot,the gaze of an angry parochial school teacher,a vacation to Hades,1,1,568,0,0,0,0,1,1
+A safe deposit box is closed and secretive,A child's toy box is closed and secretive,a safe deposit box,a child's toy box,0,0,569,0,0,0,1,0,1
+A safe deposit box is wide open and easily accessible,A child's toy box is wide open and easily accessible,a safe deposit box,a child's toy box,1,1,569,1,0,0,1,0,1
+A shy middle child is very hard to see,A bully is very hard to see,a shy middle child,a bully,0,0,570,0,0,0,1,0,1
+A shy middle child is very noticeable,A bully is very noticeable,a shy middle child,a bully,1,1,570,1,0,0,1,0,1
+A blade is clever.,A stone is clever.,a blade,a stone,0,0,575,1,1,0,0,1,2
+A blade is dull and not clever.,A stone is dull and not clever.,a blade,a stone,1,1,575,0,1,0,0,1,2
+A ballerina is very graceful and elegant.,A dump truck is very graceful and elegant.,a ballerina,a dump truck,0,0,576,1,1,0,0,1,2
+"A ballerina is not graceful or elegant, and in fact is cumbersome and unsophisticated.","A dump truck is not graceful or elegant, and in fact is cumbersome and unsophisticated.",a ballerina,a dump truck,1,1,576,0,1,0,0,1,2
+A flea was impatient.,A tortoise was impatient.,a flea,a tortoise,0,0,579,0,1,0,0,0,1
+A flea was patient.,A tortoise was patient.,a flea,a tortoise,1,1,579,1,1,0,0,0,1
+A yogi had a calm attitude.,A military commander had a calm attitude.,a yogi,a military commander,0,0,586,0,1,0,0,0,1
+A yogi had an aggressive attitude.,A military commander had an aggressive attitude.,a yogi,a military commander,1,1,586,1,1,0,0,0,1
+A golden retriever is trustworthy and friendly.,A cobra is trustworthy and friendly.,a golden retriever,a cobra,0,0,589,1,0,0,1,0,1
+A golden retriever is not friendly or trustworthy.,A cobra is not friendly or trustworthy.,a golden retriever,a cobra,1,1,589,1,0,0,1,0,1
+A ballerina is extremely graceful.,A pig on ice is extremely graceful.,a ballerina,a pig on ice,0,0,601,1,0,0,1,0,1
+A ballerina is clumsy and ungraceful.,A pig on ice is clumsy and ungraceful.,a ballerina,a pig on ice,1,1,601,0,0,0,1,0,1
+A bowl of rocks is dumb,A scientist is dumb,a bowl of rocks,a scientist,0,0,605,1,0,0,1,1,2
+A bowl of rocks is smart,A scientist is smart,a bowl of rocks,a scientist,1,1,605,1,0,0,1,1,2
+A bowling ball was very heavy.,A hairpin was very heavy.,a bowling ball,a hairpin,0,0,607,1,1,1,0,0,2
+A bowling ball was very light.,A hairpin was very light.,a bowling ball,a hairpin,1,1,607,0,1,1,0,0,2
+A volcano is hot,Ice is hot,a volcano,ice,0,0,613,1,1,1,0,0,2
+A volcano is cold,Ice is cold,a volcano,ice,1,1,613,1,1,1,0,0,2
+A pancake is flat,A roller coaster is flat,a pancake,a roller coaster,0,0,614,1,1,0,0,1,2
+A pancake is rolling,A roller coaster is rolling,a pancake,a roller coaster,1,1,614,1,1,0,0,1,2
+Gold has a great deal of concern for others,Coal has a great deal of concern for others,gold,coal,0,0,618,1,1,0,0,1,2
+Gold doesn't care too much for others,Coal doesn't care too much for others,gold,coal,1,1,618,0,1,0,0,1,2
+An exotic tale was intriguing,A classified ad was intriguing,an exotic tale,a classified ad,0,0,643,0,0,0,0,1,1
+An exotic tale was boring,A classified ad was boring,an exotic tale,a classified ad,1,1,643,1,0,0,0,1,1
+A sunrise on a crisp autumn day is beautiful and moving,A trash heap is beautiful and moving,a sunrise on a crisp autumn day,a trash heap,0,0,652,1,0,0,0,1,1
+A sunrise on a crisp autumn day is ugly and unwanted,A trash heap is ugly and unwanted,a sunrise on a crisp autumn day,a trash heap,1,1,652,1,0,0,0,1,1
+A mouse doesn't eat a lot.,A dog doesn't eat a lot.,a mouse,a dog,0,0,664,1,1,0,0,1,2
+A mouse eats a lot.,A dog eats a lot.,a mouse,a dog,1,1,664,1,1,0,0,1,2
+A girl on a date with her crush was interested,A judge in the courtroom was interested,a girl on a date with her crush,a judge in the courtroom,0,0,672,1,1,0,0,1,2
+A girl on a date with her crush didn't want to hear anything,A judge in the courtroom didn't want to hear anything,a girl on a date with her crush,a judge in the courtroom,1,1,672,1,1,0,0,1,2
+A puddle was boring.,A lake was boring.,a puddle,a lake,0,0,678,0,1,0,0,0,1
+A puddle was profound.,A lake was profound.,a puddle,a lake,1,1,678,0,1,0,0,0,1
+Pre-industrial china is quite clean,A freshly opened vacuum is quite clean,pre-industrial China,a freshly opened vacuum,0,0,683,0,1,0,0,0,1
+Pre-industrial china is filthy,A freshly opened vacuum is filthy,pre-industrial China,a freshly opened vacuum,1,1,683,1,1,0,0,0,1
+A beaver is really busy.,A sloth is really busy.,a beaver,a sloth,0,0,687,1,0,0,1,0,1
+A beaver is lazy.,A sloth is lazy.,a beaver,a sloth,1,1,687,1,0,0,1,0,1
+A song bird sings well.,A howling cat sings well.,a song bird,a howling cat,0,0,688,1,1,0,0,0,1
+A song bird sings badly.,A howling cat sings badly.,a song bird,a howling cat,1,1,688,0,1,0,0,0,1
+A closed door is not open at all.,A large mall is not open at all.,a closed door,a large mall,0,0,689,1,1,0,0,0,1
+A closed door is very open.,A large mall is very open.,a closed door,a large mall,1,1,689,0,1,0,0,0,1
+The sun never changes.,The tide never changes.,the sun,the tide,0,0,690,0,1,0,0,0,1
+The sun was always changing.,The tide was always changing.,the sun,the tide,1,1,690,1,1,0,0,0,1
+Anne frank was hiding well,Circus was hiding well,Anne Frank,circus,0,0,693,1,1,0,0,0,1
+Anne frank was hiding poorly,Circus was hiding poorly,Anne Frank,circus,1,1,693,0,1,0,0,0,1
+The bible were not true,Dictionary were not true,the Bible,dictionary,0,0,694,1,1,0,0,0,1
+The bible were true,Dictionary were true,the Bible,dictionary,1,1,694,0,1,0,0,0,1
+A thief's lies were unreliable,A solid sherlock holmes case were unreliable,A thief's lies,A solid Sherlock Holmes case,0,0,708,1,1,0,0,0,1
+A thief's lies were solid and supported the case,A solid sherlock holmes case were solid and supported the case,A thief's lies,A solid Sherlock Holmes case,1,1,708,0,1,0,0,0,1
+A brain was really intellectual.,A puff of smoke was really intellectual.,a brain,a puff of smoke,0,0,716,0,1,0,0,0,1
+A brain was unimpressive.,A puff of smoke was unimpressive.,a brain,a puff of smoke,1,1,716,1,1,0,0,0,1
+A crater is bumpy.,An ice rink is bumpy.,a crater,an ice rink,0,0,718,0,1,0,0,0,1
+A crater is smooth.,An ice rink is smooth.,a crater,an ice rink,1,1,718,0,1,0,0,0,1
+A lumberjack is not careful.,A ballerina is not careful.,a lumberjack,a ballerina,0,0,719,0,0,0,0,1,1
+A lumberjack is careful.,A ballerina is careful.,a lumberjack,a ballerina,1,1,719,1,0,0,0,1,1
+A modern edison was smart,A 1st grade dropout was smart,a modern edison,a 1st grade dropout,0,0,731,0,0,0,0,1,1
+A modern edison was dumb,A 1st grade dropout was dumb,a modern edison,a 1st grade dropout,1,1,731,1,0,0,0,1,1
+The pope has a good conscience,Hitler has a good conscience,the Pope,Hitler,0,0,734,1,1,0,0,0,1
+The pope has a bad conscience,Hitler has a bad conscience,the Pope,Hitler,1,1,734,1,1,0,0,0,1
+An old woman is very crinkly,A celebrity's face is very crinkly,an old woman,a celebrity's face,0,0,735,1,0,0,1,0,1
+An old woman has no crinkles,A celebrity's face has no crinkles,an old woman,a celebrity's face,1,1,735,1,0,0,1,0,1
+A wet mop is not artistic.,Van gogh is not artistic.,a wet mop,Van Gogh,0,0,740,0,1,0,0,0,1
+A wet mop is a wonderful artist.,Van gogh is a wonderful artist.,a wet mop,Van Gogh,1,1,740,1,1,0,0,0,1
+A crater is bumpy.,A sheet of glass is bumpy.,a crater,a sheet of glass,0,0,744,1,0,0,1,0,1
+A crater is smooth.,A sheet of glass is smooth.,a crater,a sheet of glass,1,1,744,1,0,0,1,0,1
+Coffee had a very soothing voice.,An alarm on an early morning had a very soothing voice.,coffee,an alarm on an early morning,0,0,757,1,0,0,1,0,1
+Coffee was startlingly unpleasant.,An alarm on an early morning was startlingly unpleasant.,coffee,an alarm on an early morning,1,1,757,0,0,0,1,0,1
+A j. crew model had excellent looks.,A naked mole had excellent looks.,a J. Crew model,a naked mole,0,0,764,0,1,0,0,0,1
+A j. crew model had poor looks.,A naked mole had poor looks.,a J. Crew model,a naked mole,1,1,764,1,1,0,0,0,1
+A dirt road is bumpy.,A sheet of glass is bumpy.,a dirt road,a sheet of glass,0,0,768,1,0,1,0,0,1
+A dirt road is smooth.,A sheet of glass is smooth.,a dirt road,a sheet of glass,1,1,768,1,0,1,0,0,1
+A demolition derby is rough.,A surgeon is rough.,a demolition derby,a surgeon,0,0,769,1,0,0,1,0,1
+A demolition derby is careful.,A surgeon is careful.,a demolition derby,a surgeon,1,1,769,1,0,0,1,0,1
+A vending machine is large.,A p.o. box is large.,a vending machine,a P.O. Box,0,0,772,1,0,0,1,0,1
+A vending machine is small.,A p.o. box is small.,a vending machine,a P.O. Box,1,1,772,0,0,0,1,0,1
+A garbage dump was messy,A pre-surgical hospital room was messy,a garbage dump,a pre-surgical hospital room,0,0,785,0,0,0,1,0,1
+A garbage dump was clean,A pre-surgical hospital room was clean,a garbage dump,a pre-surgical hospital room,1,1,785,1,0,0,1,0,1
+A set of broken chairs was confused.,A vintage bookshelf was confused.,a set of broken chairs,a vintage bookshelf,0,0,789,1,0,0,1,0,1
+A set of broken chairs was clever.,A vintage bookshelf was clever.,a set of broken chairs,a vintage bookshelf,1,1,789,1,0,0,1,0,1
+An icecube in a snowstorm's not useful at all.,A heated cabin in a snowstorm's not useful at all.,an icecube in a snowstorm,a heated cabin in a snowstorm,0,0,798,1,1,0,0,0,1
+An icecube in a snowstorm's very useful.,A heated cabin in a snowstorm's very useful.,an icecube in a snowstorm,a heated cabin in a snowstorm,1,1,798,0,1,0,0,0,1
+Granite is hard,A cloud is hard,granite,a cloud,0,0,802,1,1,0,0,0,1
+Granite is soft,A cloud is soft,granite,a cloud,1,1,802,0,1,0,0,0,1
+A field of lillies smelled good,Wildebeest dung smelled good,a field of lillies,wildebeest dung,0,0,803,1,1,0,0,0,1
+A field of lillies smelled bad,Wildebeest dung smelled bad,a field of lillies,wildebeest dung,1,1,803,1,1,0,0,0,1
+A kiddie pool is superficial.,The mariana trench is superficial.,a kiddie pool,the mariana trench,0,0,808,1,0,0,1,1,2
+A kiddie pool is complex.,The mariana trench is complex.,a kiddie pool,the mariana trench,1,1,808,1,0,0,1,1,2
+A bed of rocks is bumpy.,An ice rink is bumpy.,a bed of rocks,an ice rink,0,0,809,1,0,0,1,1,2
+A bed of rocks is smooth.,An ice rink is smooth.,a bed of rocks,an ice rink,1,1,809,0,0,0,1,1,2
+Onion ring batter was thick.,Mist was thick.,onion ring batter,mist,0,0,811,1,1,0,0,0,1
+Onion ring batter was thin.,Mist was thin.,onion ring batter,mist,1,1,811,0,1,0,0,0,1
+A meadow is very open and tolerant,A closet is very open and tolerant,a meadow,a closet,0,0,823,1,0,0,1,0,1
+A meadow is not open or tolerant,A closet is not open or tolerant,a meadow,a closet,1,1,823,0,0,0,1,0,1
+A bucket is very shallow,The ocean is very shallow,a bucket,the ocean,0,0,825,0,1,0,0,0,1
+A bucket is not very shallow,The ocean is not very shallow,a bucket,the ocean,1,1,825,1,1,0,0,0,1
+A museum is highly cultured.,A truck is highly cultured.,a museum,a truck,0,0,829,1,0,0,1,1,2
+A museum is lowbrow and not cultured.,A truck is lowbrow and not cultured.,a museum,a truck,1,1,829,0,0,0,1,1,2
+A body builder is strong.,A grandpa is strong.,a body builder,a grandpa,0,0,832,1,0,0,1,1,2
+A body builder is weak.,A grandpa is weak.,a body builder,a grandpa,1,1,832,0,0,0,1,1,2
+Gravel is too rough.,Chocolate mousse is too rough.,gravel,chocolate mousse,0,0,841,1,1,0,0,0,1
+Gravel is light.,Chocolate mousse is light.,gravel,chocolate mousse,1,1,841,1,1,0,0,0,1
+A goldfish is docile.,A starving bear is docile.,a goldfish,a starving bear,0,0,850,0,0,0,0,1,1
+A goldfish is dangerous .,A starving bear is dangerous .,a goldfish,a starving bear,1,1,850,1,0,0,0,1,1
+Iron is thick and hard to see through.,Plexiglass is thick and hard to see through.,iron,plexiglass,0,0,851,0,0,0,0,1,1
+Iron is thin and easy to see through.,Plexiglass is thin and easy to see through.,iron,plexiglass,1,1,851,1,0,0,0,1,1
+A computer in star trek is very intelligent,An underdeveloped pigeon is very intelligent,a computer in Star Trek,an underdeveloped pigeon,0,0,860,1,1,0,0,0,1
+A computer in star trek isn't very smart,An underdeveloped pigeon isn't very smart,a computer in Star Trek,an underdeveloped pigeon,1,1,860,0,1,0,0,0,1
+A hobo's handkerchief is not worth much,A pile of gold bars is not worth much,A hobo's handkerchief,A pile of gold bars,0,0,869,0,0,1,0,0,1
+A hobo's handkerchief is very valuable,A pile of gold bars is very valuable,A hobo's handkerchief,A pile of gold bars,1,1,869,0,0,1,0,0,1
+A buddhist monk's extremely disciplined.,A wild hyena's extremely disciplined.,a Buddhist monk,a wild hyena,0,0,877,1,0,1,0,0,1
+A buddhist monk's not disciplined at all.,A wild hyena's not disciplined at all.,a Buddhist monk,a wild hyena,1,1,877,1,0,1,0,0,1
+An inferno is super spicy,An ice cube is super spicy,an inferno,an ice cube,0,0,878,0,1,0,0,0,1
+An inferno is not spicy,An ice cube is not spicy,an inferno,an ice cube,1,1,878,1,1,0,0,0,1
+A beaten dog's very angry,A happy butterfly's very angry,a beaten dog,a happy butterfly,0,0,883,1,1,0,0,0,1
+A beaten dog's not at all angry,A happy butterfly's not at all angry,a beaten dog,a happy butterfly,1,1,883,1,1,0,0,0,1
+The gulf of mexico is oily,Dawn is oily,the Gulf of Mexico,Dawn,0,0,885,1,1,0,0,0,1
+The gulf of mexico is oil free,Dawn is oil free,the Gulf of Mexico,Dawn,1,1,885,0,1,0,0,0,1
+An occult meeting was heretical and move beyond the boundaries of accepted teachings.,The ancient church fathers was heretical and move beyond the boundaries of accepted teachings.,an occult meeting,the ancient church fathers,0,0,886,1,1,0,0,0,1
+An occult meeting was within the boundaries of accepted teachings and were in line with the great tradition.,The ancient church fathers was within the boundaries of accepted teachings and were in line with the great tradition.,an occult meeting,the ancient church fathers,1,1,886,1,1,0,0,0,1
+A sword was very sharp.,A pillow was very sharp.,a sword,a pillow,0,0,890,1,1,0,0,0,1
+A sword wasn't sharp at all.,A pillow wasn't sharp at all.,a sword,a pillow,1,1,890,0,1,0,0,0,1
+A buddha is very religious,My dog is very religious,a buddha,my dog,0,0,892,0,1,0,0,0,1
+A buddha is not religious,My dog is not religious,a buddha,my dog,1,1,892,0,1,0,0,0,1
+The sands flowed smoothly and steadily.,A break dance monkey flowed smoothly and steadily.,the sands,a break dance monkey,0,0,897,1,0,0,1,0,1
+The sands were all over the place.,A break dance monkey were all over the place.,the sands,a break dance monkey,1,1,897,0,0,0,1,0,1
+The pope is very spiritual,An athiest who burns down churches is very spiritual,the Pope,an Athiest who burns down churches,0,0,910,1,0,0,1,0,1
+The pope is not spiritual at all,An athiest who burns down churches is not spiritual at all,the Pope,an Athiest who burns down churches,1,1,910,1,0,0,1,0,1
+The lifetime of a hundred suns was very long,The distance was very long,the lifetime of a hundred suns,the distance,0,0,911,0,0,1,0,0,1
+The lifetime of a hundred suns was quite short,The distance was quite short,the lifetime of a hundred suns,the distance,1,1,911,1,0,1,0,0,1
+A swarm of wasps is mean.,A pack of puppies is mean.,a swarm of wasps,a pack of puppies,0,0,913,1,0,1,0,0,1
+A swarm of wasps is lovable.,A pack of puppies is lovable.,a swarm of wasps,a pack of puppies,1,1,913,1,0,1,0,0,1
+A man who has to urinate had a lot of urgency,A far away deadline had a lot of urgency,a man who has to urinate,a far away deadline,0,0,924,0,1,0,0,0,1
+A man who has to urinate had no urgency,A far away deadline had no urgency,a man who has to urinate,a far away deadline,1,1,924,1,1,0,0,0,1
+A goldfish is dumb.,The taj mahal is dumb.,a goldfish,the Taj Mahal,0,0,925,1,0,0,1,0,1
+A goldfish is a masterpiece.,The taj mahal is a masterpiece.,a goldfish,the Taj Mahal,1,1,925,1,0,0,1,0,1
+An old angry cat wasn't kind at all,A newborn puppy wasn't kind at all,An old angry cat,A newborn puppy,0,0,933,1,0,0,1,0,1
+An old angry cat was happy to see us,A newborn puppy was happy to see us,An old angry cat,A newborn puppy,1,1,933,0,0,0,1,0,1
+A gnat has a short attention span,A dolphin has a short attention span,A gnat,a dolphin,0,0,935,0,1,0,0,0,1
+A gnat has a long attention span,A dolphin has a long attention span,A gnat,a dolphin,1,1,935,1,1,0,0,0,1
+The age of a mummy from ancient egypt is old,The age of the mummy starring tom cruise is old,the age of a mummy from ancient Egypt,the age of The Mummy starring Tom Cruise,0,0,936,0,0,0,0,1,1
+The age of a mummy from ancient egypt is young,The age of the mummy starring tom cruise is young,the age of a mummy from ancient Egypt,the age of The Mummy starring Tom Cruise,1,1,936,0,0,0,0,1,1
+A flamingo was graceful.,A hippopotamus was graceful.,a flamingo,a hippopotamus,0,0,941,0,0,0,0,1,1
+A flamingo was clumsy.,A hippopotamus was clumsy.,a flamingo,a hippopotamus,1,1,941,1,0,0,0,1,1
+The cowardly lion is cowardly.,An entire army is cowardly.,the cowardly lion,an entire army,0,0,944,1,1,0,0,0,1
+The cowardly lion is very brave.,An entire army is very brave.,the cowardly lion,an entire army,1,1,944,0,1,0,0,0,1
+Aquaman is good at floating,Aquaman is good at floating,Aquaman,Aquaman,0,0,957,1,1,0,0,0,1
+Aquaman floats poorly,Aquaman floats poorly,Aquaman,Aquaman,1,1,957,0,1,0,0,0,1
+A snakeskin is rough.,A mirror is rough.,a snakeskin,a mirror,0,0,966,0,1,0,0,0,1
+A snakeskin is smooth.,A mirror is smooth.,a snakeskin,a mirror,1,1,966,1,1,0,0,0,1
+A party was joyful.,A funeral was joyful.,a party,a funeral,0,0,979,1,1,0,0,0,1
+A party was miserable.,A funeral was miserable.,a party,a funeral,1,1,979,0,1,0,0,0,1
+A red panda was very cute.,A blobfish was very cute.,a red panda,a blobfish,0,0,983,1,0,0,0,1,1
+A red panda was not very cute.,A blobfish was not very cute.,a red panda,a blobfish,1,1,983,1,0,0,0,1,1
+Hercules is very strong,A wet angel hair pasta noodle is very strong,Hercules,a wet angel hair pasta noodle,0,0,985,1,0,0,0,1,1
+Hercules is very weak,A wet angel hair pasta noodle is very weak,Hercules,a wet angel hair pasta noodle,1,1,985,0,0,0,0,1,1
+My enemy is not favorable,My game is not favorable,my enemy,my game,0,0,996,0,0,0,0,1,1
+My enemy is favorable,My game is favorable,my enemy,my game,1,1,996,0,0,0,0,1,1
+The north star's very smart.,A dead lightbulb's very smart.,the north star,a dead lightbulb,0,0,1002,0,0,0,0,1,1
+The north star's not very smart.,A dead lightbulb's not very smart.,the north star,a dead lightbulb,1,1,1002,1,0,0,0,1,1
+A racecar is fast,A sloth is fast,a racecar,a sloth,0,0,1005,1,0,0,1,0,1
+A racecar is slow,A sloth is slow,a racecar,a sloth,1,1,1005,1,0,0,1,0,1
+A racecar honking is noisy,A stack of papers is noisy,a racecar honking,a stack of papers,0,0,1008,1,0,0,1,0,1
+A racecar honking is quiet,A stack of papers is quiet,a racecar honking,a stack of papers,1,1,1008,0,0,0,1,0,1
+A boa constrictor is not relatable.,An old friend is not relatable.,a boa constrictor,an old friend,0,0,1014,1,1,0,0,0,1
+A boa constrictor is relatable.,An old friend is relatable.,a boa constrictor,an old friend,1,1,1014,0,1,0,0,0,1
+The grand canyon is enormous.,A mousetrap is enormous.,the Grand Canyon,a mousetrap,0,0,1021,1,1,1,0,0,2
+The grand canyon is tiny.,A mousetrap is tiny.,the Grand Canyon,a mousetrap,1,1,1021,1,1,1,0,0,2
+A dick and jane book is simplistic.,A shakespearean play is simplistic.,a Dick and Jane book,a Shakespearean play,0,0,1025,1,0,0,1,0,1
+A dick and jane book has a deep plot.,A shakespearean play has a deep plot.,a Dick and Jane book,a Shakespearean play,1,1,1025,0,0,0,1,0,1
+A fat man has high absorbance,A one-ply piece of toilet paper has high absorbance,a fat man,a one-ply piece of toilet paper,0,0,1034,0,0,0,0,1,1
+A fat man can absorb little,A one-ply piece of toilet paper can absorb little,a fat man,a one-ply piece of toilet paper,1,1,1034,0,0,0,0,1,1
+Google was extremely smart.,Un untrained puppy was extremely smart.,Google,un untrained puppy,0,0,1038,0,0,0,0,1,1
+Google was ignorant.,Un untrained puppy was ignorant.,Google,un untrained puppy,1,1,1038,1,0,0,0,1,1
+A mother's kiss smells good,Satan's kiss smells good,a mother's kiss,satan's kiss,0,0,1043,1,0,0,0,1,1
+A mother's kiss smells bad,Satan's kiss smells bad,a mother's kiss,satan's kiss,1,1,1043,1,0,0,0,1,1
+A marathon was long,Paper clip was long,a marathon,paper clip,0,0,1044,1,0,1,0,0,1
+A marathon was short,Paper clip was short,a marathon,paper clip,1,1,1044,1,0,1,0,0,1
+A ton of bricks hit the ground hard,A feather hit the ground hard,a ton of bricks,a feather,0,0,1049,0,0,1,0,0,1
+A ton of bricks hit the ground softly,A feather hit the ground softly,a ton of bricks,a feather,1,1,1049,1,0,1,0,0,1
+A one dimensional cartoon character is boring,An all encompassing black hole of outer space is boring,a one dimensional cartoon character,an all encompassing black hole of outer space,0,0,1050,0,1,1,0,0,2
+A one dimensional cartoon character is profound,An all encompassing black hole of outer space is profound,a one dimensional cartoon character,an all encompassing black hole of outer space,1,1,1050,1,1,1,0,0,2
+An empty bathtub was dull.,The mariana trench was dull.,an empty bathtub,the Mariana Trench,0,0,1053,0,1,1,0,0,2
+An empty bathtub was profound.,The mariana trench was profound.,an empty bathtub,the Mariana Trench,1,1,1053,1,1,1,0,0,2
+An empty sink was superficial.,The bottom of the ocean was superficial.,an empty sink,the bottom of the ocean,0,0,1054,0,1,1,0,0,2
+An empty sink was profound.,The bottom of the ocean was profound.,an empty sink,the bottom of the ocean,1,1,1054,1,1,1,0,0,2
+The sears tower is tall,An anthill is tall,the Sears Tower,an anthill,0,0,1066,0,1,0,1,0,2
+The sears tower is short,An anthill is short,the Sears Tower,an anthill,1,1,1066,1,1,0,1,0,2
+A snake is curvy.,A ruler is curvy.,a snake,a ruler,0,0,1085,0,0,0,0,1,1
+A snake is straight.,A ruler is straight.,a snake,a ruler,1,1,1085,1,0,0,0,1,1
+An egg's very hot.,An icecube's very hot.,an egg,an icecube,0,0,1087,1,0,0,0,1,1
+An egg's not hot at all.,An icecube's not hot at all.,an egg,an icecube,1,1,1087,0,0,0,0,1,1
+A sleeping pill is boring,A caffine pill is boring,A sleeping pill,A caffine pill,0,0,1092,0,1,1,0,0,2
+A sleeping pill is exciting,A caffine pill is exciting,A sleeping pill,A caffine pill,1,1,1092,1,1,1,0,0,2
+A puddle's not a deep thinker,The sea's not a deep thinker,a puddle,the sea,0,0,1098,0,1,0,0,0,1
+A puddle's a very deep thinker,The sea's a very deep thinker,a puddle,the sea,1,1,1098,1,1,0,0,0,1
+Google is knowledgeable.,America online is knowledgeable.,Google,America Online,0,0,1103,0,1,0,0,0,1
+Google is out-of-date.,America online is out-of-date.,Google,America Online,1,1,1103,1,1,0,0,0,1
+A hot air balloon is bloated.,A slick lynx is bloated.,a hot air balloon,a slick lynx,0,0,1104,1,1,0,0,0,1
+A hot air balloon is sexy.,A slick lynx is sexy.,a hot air balloon,a slick lynx,1,1,1104,1,1,0,0,0,1
+24 karat gold was very luxurious.,A sleeping bag was very luxurious.,24 karat gold,a sleeping bag,0,0,1107,1,1,0,0,0,1
+24 karat gold was not luxurious at all.,A sleeping bag was not luxurious at all.,24 karat gold,a sleeping bag,1,1,1107,1,1,0,0,0,1
+Cellophane was sheer.,A solid piece of wood was sheer.,cellophane,a solid piece of wood,0,0,1114,0,1,0,0,0,1
+Cellophane was solid.,A solid piece of wood was solid.,cellophane,a solid piece of wood,1,1,1114,1,1,0,0,0,1
+Michael jackson is a great dancer,A six-legged spider on crutches is a great dancer,Michael Jackson,a six-legged spider on crutches,0,0,1120,1,1,0,0,0,1
+Michael jackson can hardly dance at all,A six-legged spider on crutches can hardly dance at all,Michael Jackson,a six-legged spider on crutches,1,1,1120,1,1,0,0,0,1
+A universe is vast.,A bobbing wave is vast.,a universe,a bobbing wave,0,0,1124,1,1,0,0,0,1
+A universe is fluctuating.,A bobbing wave is fluctuating.,a universe,a bobbing wave,1,1,1124,0,1,0,0,0,1
+A wild beast was angry,A zen master was angry,a wild beast,a zen master,0,0,1133,1,1,0,0,0,1
+"A wild beast was calm, and not angry","A zen master was calm, and not angry",a wild beast,a zen master,1,1,1133,0,1,0,0,0,1
+A rhino was very tough.,A guinea pig was very tough.,a rhino,a guinea pig,0,0,1136,1,1,0,0,0,1
+A rhino was not very tough.,A guinea pig was not very tough.,a rhino,a guinea pig,1,1,1136,1,1,0,0,0,1
+A surgeon was very reliable.,A ten-year old surgeon was very reliable.,a surgeon,a ten-year old surgeon,0,0,1137,1,1,0,0,0,1
+A surgeon couldn't be relied on at all.,A ten-year old surgeon couldn't be relied on at all.,a surgeon,a ten-year old surgeon,1,1,1137,0,1,0,0,0,1
+A lumberer was clumsy,A sculptor was clumsy,a lumberer,a sculptor,0,0,1150,1,1,0,0,0,1
+A lumberer was careful.,A sculptor was careful.,a lumberer,a sculptor,1,1,1150,0,1,0,0,0,1
+An acrobat was very coordinated,A drunken sailor was very coordinated,an acrobat,a drunken sailor,0,0,1153,1,1,1,0,0,2
+An acrobat was very uncoordinated,A drunken sailor was very uncoordinated,an acrobat,a drunken sailor,1,1,1153,0,1,1,0,0,2
+A tsunami is strong.,A gentle wave is strong.,a tsunami,a gentle wave,0,0,1154,0,1,0,0,0,1
+A tsunami is weak.,A gentle wave is weak.,a tsunami,a gentle wave,1,1,1154,1,1,0,0,0,1
+An axe is smart.,An sponge is smart.,an axe,an sponge,0,0,1155,1,1,0,0,0,1
+An axe is dumb.,An sponge is dumb.,an axe,an sponge,1,1,1155,0,1,0,0,0,1
+A bunny was mild and tame,Being force was mild and tame,a bunny,being force,0,0,1163,1,1,0,0,0,1
+A bunny was scary and sickening,Being force was scary and sickening,a bunny,being force,1,1,1163,1,1,0,0,0,1
+Cardiothoracic surgeons are as focused as can be.,Young puppies are as focused as can be.,cardiothoracic surgeons,young puppies,0,0,1170,0,1,0,0,1,2
+Cardiothoracic surgeons have a total lack of focus.,Young puppies have a total lack of focus.,cardiothoracic surgeons,young puppies,1,1,1170,1,1,0,0,1,2
+A whale is large.,A mouse is large.,a whale,a mouse,0,0,1173,1,0,0,1,0,1
+A whale is small.,A mouse is small.,a whale,a mouse,1,1,1173,1,0,0,1,0,1
+Lemonade was totally refreshing.,An empty glass was totally refreshing.,lemonade,an empty glass,0,0,1188,1,1,0,0,0,1
+Lemonade wasn't refreshing at all.,An empty glass wasn't refreshing at all.,lemonade,an empty glass,1,1,1188,1,1,0,0,0,1
+A whale is large,A amoeba is large,a whale,a amoeba,0,0,1192,1,1,0,0,0,1
+A whale is small,A amoeba is small,a whale,a amoeba,1,1,1192,1,1,0,0,0,1
+Twigs are thin and brittle,Tree trunks are thin and brittle,twigs,tree trunks,0,0,1194,0,1,0,0,0,1
+Twigs are thick and heavy,Tree trunks are thick and heavy,twigs,tree trunks,1,1,1194,1,1,0,0,0,1
+A closed door was not inviting.,An open door was not inviting.,a closed door,an open door,0,0,1196,1,1,0,0,0,1
+A closed door was inviting.,An open door was inviting.,a closed door,an open door,1,1,1196,1,1,0,0,0,1
+A coup d'état was when they betrayed the leader.,A royal coronation was when they betrayed the leader.,a coup d'état,a royal coronation,0,0,1197,1,0,0,1,0,1
+A coup d'état was when they selected the leader.,A royal coronation was when they selected the leader.,a coup d'état,a royal coronation,1,1,1197,0,0,0,1,0,1
+A puppy dog is sweet and docile,A t-rex is sweet and docile,a puppy dog,a T-rex,0,0,1212,1,0,0,1,0,1
+A puppy dog is aggressive,A t-rex is aggressive,a puppy dog,a T-rex,1,1,1212,1,0,0,1,0,1
+A guillotine was sharp,A dull pencil was sharp,a guillotine,a dull pencil,0,0,1221,0,0,0,0,1,1
+A guillotine was not sharp,A dull pencil was not sharp,a guillotine,a dull pencil,1,1,1221,1,0,0,0,1,1
+"A steel trap remembers everything, no matter how insignificant.","Swiss cheese remembers everything, no matter how insignificant.",a steel trap,swiss cheese,0,0,1224,1,0,0,0,1,1
+"A steel trap remembers nothing, and has lost half of what she once knew.","Swiss cheese remembers nothing, and has lost half of what she once knew.",a steel trap,swiss cheese,1,1,1224,1,0,0,0,1,1
+A football game rally was really upbeat.,A funeral hymn was really upbeat.,a football game rally,a funeral hymn,0,0,1225,0,1,0,0,0,1
+A football game rally was heavyhanded.,A funeral hymn was heavyhanded.,a football game rally,a funeral hymn,1,1,1225,0,1,0,0,0,1
+A newly polished blade is sharp.,A pair of rusty kitchen scissors is sharp.,a newly polished blade,a pair of rusty kitchen scissors,0,0,1227,1,1,0,0,0,1
+A newly polished blade is dull.,A pair of rusty kitchen scissors is dull.,a newly polished blade,a pair of rusty kitchen scissors,1,1,1227,0,1,0,0,0,1
+A sword was sharp,A stone was sharp,a sword,a stone,0,0,1235,1,0,0,0,1,1
+A sword was dull,A stone was dull,a sword,a stone,1,1,1235,0,0,0,0,1,1
+A stick of rust is rusty and old.,A knife is rusty and old.,a stick of rust,a knife,0,0,1240,0,0,0,0,1,1
+A stick of rust is sharp.,A knife is sharp.,a stick of rust,a knife,1,1,1240,1,0,0,0,1,1
+Stone is hard,Gold is hard,stone,gold,0,0,1245,1,0,0,0,1,1
+Stone is generous,Gold is generous,stone,gold,1,1,1245,0,0,0,0,1,1
+A newborn baby eel is awkward.,A gazelle is awkward.,a newborn baby eel,a gazelle,0,0,1251,0,1,0,0,0,1
+A newborn baby eel is elegant.,A gazelle is elegant.,a newborn baby eel,a gazelle,1,1,1251,1,1,0,0,0,1
+A giraffe's really tall.,A gnome's really tall.,a giraffe,a gnome,0,0,1252,1,0,0,0,1,1
+A giraffe's really short.,A gnome's really short.,a giraffe,a gnome,1,1,1252,1,0,0,0,1,1
+A mother loved me.,A wicked stepmother loved me.,a mother,a wicked stepmother,0,0,1272,1,0,0,0,1,1
+A mother didn't love me at all.,A wicked stepmother didn't love me at all.,a mother,a wicked stepmother,1,1,1272,1,0,0,0,1,1
+A mouse was quiet.,A megaphone was quiet.,a mouse,a megaphone,0,0,1273,0,1,1,0,0,2
+A mouse was loud.,A megaphone was loud.,a mouse,a megaphone,1,1,1273,1,1,1,0,0,2
+A freshly baked christmas ham smells good,A sweaty pair of running shoes smells good,a freshly baked Christmas ham,a sweaty pair of running shoes,0,0,1275,0,0,0,0,1,1
+A freshly baked christmas ham smells foul,A sweaty pair of running shoes smells foul,a freshly baked Christmas ham,a sweaty pair of running shoes,1,1,1275,1,0,0,0,1,1
+A mountain is very strong.,A house of cards is very strong.,a mountain,a house of cards,0,0,1278,0,0,0,0,1,1
+A mountain is very flimsy.,A house of cards is very flimsy.,a mountain,a house of cards,1,1,1278,1,0,0,0,1,1
+A demolition derby was sloppy.,A gazelle was sloppy.,a demolition derby,a gazelle,0,0,1288,1,1,0,0,0,1
+A demolition derby was careful.,A gazelle was careful.,a demolition derby,a gazelle,1,1,1288,1,1,0,0,0,1
+The stars shined brightly.,The dirt shined brightly.,the stars,the dirt,0,0,1290,1,1,0,0,0,1
+The stars was dull and didn't shine at all.,The dirt was dull and didn't shine at all.,the stars,the dirt,1,1,1290,1,1,0,0,0,1
+The sun was hot,A popsicle was hot,the sun,a popsicle,0,0,1291,1,0,0,1,0,1
+"The sun was not hot, but cold.","A popsicle was not hot, but cold.",the sun,a popsicle,1,1,1291,0,0,0,1,0,1
+A feather duster is soft,An asteroid is soft,a feather duster,an asteroid,0,0,1293,1,1,0,0,0,1
+A feather duster isn't soft,An asteroid isn't soft,a feather duster,an asteroid,1,1,1293,0,1,0,0,0,1
+A wonderful walk is enjoyable,An arduous trek is enjoyable,a wonderful walk,an arduous trek,0,0,1298,0,1,0,0,0,1
+A wonderful walk is hard,An arduous trek is hard,a wonderful walk,an arduous trek,1,1,1298,1,1,0,0,0,1
+A dumpster fire is trash.,A butterfly is trash.,a dumpster fire,a butterfly,0,0,1303,1,1,0,0,0,1
+A dumpster fire is wonderful.,A butterfly is wonderful.,a dumpster fire,a butterfly,1,1,1303,0,1,0,0,0,1
+"The cherry on top of the sundae is the best, finishing touch","The worm inside the pretty apple is the best, finishing touch",the cherry on top of the sundae,the worm inside the pretty apple,0,0,1315,1,1,0,0,1,2
+The cherry on top of the sundae is an unpleasant surprise that ruins it,The worm inside the pretty apple is an unpleasant surprise that ruins it,the cherry on top of the sundae,the worm inside the pretty apple,1,1,1315,0,1,0,0,1,2
+An icy road is dangerous and hard to navigate,A warm blanket is dangerous and hard to navigate,an icy road,a warm blanket,0,0,1316,1,1,0,0,1,2
+An icy road is comfortable and comforting,A warm blanket is comfortable and comforting,an icy road,a warm blanket,1,1,1316,1,1,0,0,1,2
+A rainbow is something surprisingly good after something devastating,A sinking ship is something surprisingly good after something devastating,a rainbow,a sinking ship,0,0,1317,1,1,0,0,0,1
+A rainbow is the feeling of failing,A sinking ship is the feeling of failing,a rainbow,a sinking ship,1,1,1317,1,1,0,0,0,1
+A theme park was interesting,Wet paint was interesting,a theme park,wet paint,0,0,1318,1,1,0,0,0,1
+A theme park was boring,Wet paint was boring,a theme park,wet paint,1,1,1318,0,1,0,0,0,1
+A decadent chocolate is excellent,Vomit is excellent,a decadent chocolate,vomit,0,0,1319,0,1,0,0,0,1
+A decadent chocolate is horrible,Vomit is horrible,a decadent chocolate,vomit,1,1,1319,1,1,0,0,0,1
+A marathon winner was exhausted.,The energizer bunny was exhausted.,a marathon winner,the Energizer Bunny,0,0,1325,0,0,0,0,1,1
+A marathon winner wasn't tired at all.,The energizer bunny wasn't tired at all.,a marathon winner,the Energizer Bunny,1,1,1325,1,0,0,0,1,1
+The grand canyon was alive and well.,Notebook paper was alive and well.,the Grand Canyon,notebook paper,0,0,1327,1,1,0,0,0,1
+The grand canyon was nonexistent.,Notebook paper was nonexistent.,the Grand Canyon,notebook paper,1,1,1327,1,1,0,0,0,1
+Pudding is very moist,Leather is very moist,pudding,leather,0,0,1336,1,1,0,1,0,2
+Pudding is very dry,Leather is very dry,pudding,leather,1,1,1336,0,1,0,1,0,2
+A child's first learning to play the piano was simplistic and randomly thrown together.,A chopin concerto was simplistic and randomly thrown together.,a child's first learning to play the piano,a Chopin concerto,0,0,1341,1,1,0,0,0,1
+"A child's first learning to play the piano was complex, beautiful, and had the feel of a classic work of art.","A chopin concerto was complex, beautiful, and had the feel of a classic work of art.",a child's first learning to play the piano,a Chopin concerto,1,1,1341,0,1,0,0,0,1
+A knife is too hard.,A hot tub is too hard.,a knife,a hot tub,0,0,1343,1,0,0,0,1,1
+A knife is warm and cozy.,A hot tub is warm and cozy.,a knife,a hot tub,1,1,1343,1,0,0,0,1,1
+A razor's very smart and quick.,A butter knife's very smart and quick.,a razor,a butter knife,0,0,1350,0,0,0,0,1,1
+A razor's not smart.,A butter knife's not smart.,a razor,a butter knife,1,1,1350,1,0,0,0,1,1
+A fairy dances well,A turtle dances well,a fairy,a turtle,0,0,1353,0,0,0,1,0,1
+A fairy dances poorly,A turtle dances poorly,a fairy,a turtle,1,1,1353,1,0,0,1,0,1
+The temperature of fire is burning hot,The temperature of ice is burning hot,the temperature of fire,the temperature of ice,0,0,1357,1,1,1,0,0,2
+The temperature of fire is very cold,The temperature of ice is very cold,the temperature of fire,the temperature of ice,1,1,1357,1,1,1,0,0,2
+Freddy krueger was scary,Snow white was scary,Freddy Krueger,Snow White,0,0,1364,1,1,0,0,0,1
+Freddy krueger was not scary,Snow white was not scary,Freddy Krueger,Snow White,1,1,1364,0,1,0,0,0,1
+The himalayas has a wide vocal range,A mound of sand has a wide vocal range,the Himalayas,a mound of sand,0,0,1369,1,1,0,0,0,1
+"The himalayas has a narrow, poor range","A mound of sand has a narrow, poor range",the Himalayas,a mound of sand,1,1,1369,0,1,0,0,0,1
+A billboard headline is totally clear.,A rothko painting is totally clear.,a billboard headline,a Rothko painting,0,0,1383,1,1,0,0,0,1
+A billboard headline is very abstract.,A rothko painting is very abstract.,a billboard headline,a Rothko painting,1,1,1383,1,1,0,0,0,1
+A pristine forest is serene.,A rock concert is serene.,a pristine forest,a rock concert,0,0,1385,1,1,0,0,0,1
+A pristine forest is chaotic.,A rock concert is chaotic.,a pristine forest,a rock concert,1,1,1385,1,1,0,0,0,1
+Cotton candy has no critical thinking skills.,A finely tuned machine has no critical thinking skills.,cotton candy,a finely tuned machine,0,0,1399,0,1,1,0,0,2
+Cotton candy has great critical thinking skills.,A finely tuned machine has great critical thinking skills.,cotton candy,a finely tuned machine,1,1,1399,1,1,1,0,0,2
+A mud puddle is simplistic,The mariana trench is simplistic,A mud puddle,The Mariana Trench,0,0,1401,1,0,0,0,1,1
+A mud puddle is profound,The mariana trench is profound,A mud puddle,The Mariana Trench,1,1,1401,0,0,0,0,1,1
+A king's crown is very showy.,A paper bag is very showy.,a king's crown,a paper bag,0,0,1405,1,0,0,1,0,1
+A king's crown is very plain.,A paper bag is very plain.,a king's crown,a paper bag,1,1,1405,1,0,0,1,0,1
+A giraffe's very tall,A mouse's very tall,a giraffe,a mouse,0,0,1412,1,0,0,1,0,1
+A giraffe's very small,A mouse's very small,a giraffe,a mouse,1,1,1412,1,0,0,1,0,1
+A giant marshmellow is soft.,A brick is soft.,a giant marshmellow,a brick,0,0,1414,1,0,0,0,1,1
+A giant marshmellow is hard.,A brick is hard.,a giant marshmellow,a brick,1,1,1414,1,0,0,0,1,1
+A murder scene is terrible,A an enchanted forest is terrible,a murder scene,a an enchanted forest,0,0,1421,1,0,0,0,1,1
+A murder scene is full of wonder.,A an enchanted forest is full of wonder.,a murder scene,a an enchanted forest,1,1,1421,1,0,0,0,1,1
+Slamming my fingers in the car door was a horrible experience,Ascending to paradise was a horrible experience,slamming my fingers in the car door,ascending to paradise,0,0,1423,1,0,0,1,0,1
+Slamming my fingers in the car door was a wonderful experience,Ascending to paradise was a wonderful experience,slamming my fingers in the car door,ascending to paradise,1,1,1423,1,0,0,1,0,1
+Ice is standoffish,The sun is standoffish,ice,the sun,0,0,1428,0,1,0,0,0,1
+Ice is friendly,The sun is friendly,ice,the sun,1,1,1428,1,1,0,0,0,1
+A shark is cold.,A lover is cold.,a shark,a lover,0,0,1430,0,1,1,0,0,2
+A shark is warm and soothing.,A lover is warm and soothing.,a shark,a lover,1,1,1430,1,1,1,0,0,2
+A cavern is deep,A a puddle is deep,a cavern,a a puddle,0,0,1433,0,1,0,0,1,2
+A cavern is shallow,A a puddle is shallow,a cavern,a a puddle,1,1,1433,1,1,0,0,1,2
+A whip was extremely smart.,A newborn baby was extremely smart.,a whip,a newborn baby,0,0,1448,0,1,0,0,1,2
+A whip wasnt smart at all.,A newborn baby wasnt smart at all.,a whip,a newborn baby,1,1,1448,0,1,0,0,1,2
+A lightning bolt is full of power.,A dog lapping water is full of power.,a lightning bolt,a dog lapping water,0,0,1463,1,1,0,0,0,1
+A lightning bolt is ordinary and dull.,A dog lapping water is ordinary and dull.,a lightning bolt,a dog lapping water,1,1,1463,0,1,0,0,0,1
+Spandex is very tight.,A pair of extra-large sweatpants is very tight.,Spandex,a pair of extra-large sweatpants,0,0,1470,1,1,0,0,0,1
+Spandex isn't tight at all.,A pair of extra-large sweatpants isn't tight at all.,Spandex,a pair of extra-large sweatpants,1,1,1470,0,1,0,0,0,1
+A nuclear physicist felt very smart while taking the test.,A two-month old felt very smart while taking the test.,a nuclear physicist,a two-month old,0,0,1474,1,1,0,0,1,2
+A nuclear physicist felt very stupid while taking the test.,A two-month old felt very stupid while taking the test.,a nuclear physicist,a two-month old,1,1,1474,0,1,0,0,1,2
+City smog is difficult and unpleasant to process,Homemade pie is difficult and unpleasant to process,city smog,homemade pie,0,0,1476,1,1,0,0,1,2
+City smog is simple and pleasant to process,Homemade pie is simple and pleasant to process,city smog,homemade pie,1,1,1476,1,1,0,0,1,2
+A banshee is loud.,A songbird is loud.,a banshee,a songbird,0,0,1479,0,1,0,0,0,1
+A banshee is soft.,A songbird is soft.,a banshee,a songbird,1,1,1479,1,1,0,0,0,1
+A nasa astronomer is wildly intelligent.,An illiterate person is wildly intelligent.,a NASA astronomer,an illiterate person,0,0,1480,0,1,0,0,0,1
+A nasa astronomer is totally dumb.,An illiterate person is totally dumb.,a NASA astronomer,an illiterate person,1,1,1480,1,1,0,0,0,1
+A million bucks made joe feel good,An ant made joe feel good,a million bucks,an ant,0,0,1484,1,1,0,0,0,1
+A million bucks made joe feel bad,An ant made joe feel bad,a million bucks,an ant,1,1,1484,0,1,0,0,0,1
+The sea can wait a long time,An infant can wait a long time,the sea,an infant,0,0,1490,0,1,0,0,0,1
+The sea cannot wait,An infant cannot wait,the sea,an infant,1,1,1490,0,1,0,0,0,1
+A teddy bear is lovable and friendly.,A velociraptor is lovable and friendly.,a teddy bear,a velociraptor,0,0,1496,1,0,0,0,1,1
+A teddy bear is vicious and scary.,A velociraptor is vicious and scary.,a teddy bear,a velociraptor,1,1,1496,1,0,0,0,1,1
+A star is shining.,A mud pie is shining.,a star,a mud pie,0,0,1499,1,1,1,0,0,2
+A star is dull.,A mud pie is dull.,a star,a mud pie,1,1,1499,1,1,1,0,0,2
+A bat can't see anything.,A sniper can't see anything.,a bat,a sniper,0,0,1505,1,1,0,0,0,1
+"A bat has clear, sharp vision.","A sniper has clear, sharp vision.",a bat,a sniper,1,1,1505,0,1,0,0,0,1
+A baby is short-tempered.,A god is short-tempered.,a baby,a god,0,0,1506,1,1,0,0,0,1
+A baby is has a large amount of patience.,A god is has a large amount of patience.,a baby,a god,1,1,1506,1,1,0,0,0,1
+A black hole is very dim.,A flashing neon sign is very dim.,a black hole,a flashing neon sign,0,0,1507,1,0,0,0,1,1
+A black hole is shining brightly.,A flashing neon sign is shining brightly.,a black hole,a flashing neon sign,1,1,1507,1,0,0,0,1,1
+A carnival was fun to attend.,A math lecture was fun to attend.,a carnival,a math lecture,0,0,1511,1,0,0,0,1,1
+A carnival was boring.,A math lecture was boring.,a carnival,a math lecture,1,1,1511,1,0,0,0,1,1
+Joseph stalin was too harsh and had a lot of authority.,A puppy dog was too harsh and had a lot of authority.,Joseph Stalin,a puppy dog,0,0,1519,0,1,0,0,0,1
+Joseph stalin had not authority.,A puppy dog had not authority.,Joseph Stalin,a puppy dog,1,1,1519,1,1,0,0,0,1
+A hot air balloon had a huge ego.,A popped balloon had a huge ego.,a hot air balloon,a popped balloon,0,0,1520,1,1,0,0,0,1
+A hot air balloon did not have a huge ego.,A popped balloon did not have a huge ego.,a hot air balloon,a popped balloon,1,1,1520,0,1,0,0,0,1
+A rock completely lacks empathy and emotional consideration for others.,Dr. phil completely lacks empathy and emotional consideration for others.,a rock,Dr. Phil,0,0,1525,0,1,0,0,0,1
+"A rock is conscious of other people's problems, and reaches out constantly to help them.","Dr. phil is conscious of other people's problems, and reaches out constantly to help them.",a rock,Dr. Phil,1,1,1525,1,1,0,0,0,1
+The sun is bright,A cave is bright,the sun,a cave,0,0,1527,1,1,0,0,0,1
+The sun is dark,A cave is dark,the sun,a cave,1,1,1527,0,1,0,0,0,1
+A concert is loud,A whisper is loud,a concert,a whisper,0,0,1528,0,0,0,1,0,1
+A concert is quiet,A whisper is quiet,a concert,a whisper,1,1,1528,1,0,0,1,0,1
+An auditorium is large,A closet is large,an auditorium,a closet,0,0,1529,1,0,0,1,0,1
+An auditorium is small,A closet is small,an auditorium,a closet,1,1,1529,1,0,0,1,0,1
+The great pyramids was very old.,A just-born baby was very old.,the Great Pyramids,a just-born baby,0,0,1535,0,0,0,1,0,1
+The great pyramids was very new.,A just-born baby was very new.,the Great Pyramids,a just-born baby,1,1,1535,1,0,0,1,0,1
+A puppy was very playful,A rock was very playful,a puppy,a rock,0,0,1558,1,1,0,0,0,1
+A puppy wasn't playful at all,A rock wasn't playful at all,a puppy,a rock,1,1,1558,0,1,0,0,0,1
+A mirror was shiny.,A mud pie was shiny.,a mirror,a mud pie,0,0,1575,1,1,0,0,0,1
+A mirror was dull.,A mud pie was dull.,a mirror,a mud pie,1,1,1575,0,1,0,0,0,1
+A mirror was shiny.,A mud pie was shiny.,a mirror,a mud pie,0,0,1576,1,1,0,1,0,2
+A mirror was dull.,A mud pie was dull.,a mirror,a mud pie,1,1,1576,0,1,0,1,0,2
+A cheetah was very fast,A turtle was very fast,a cheetah,a turtle,0,0,1582,1,0,0,1,1,2
+A cheetah was very slow,A turtle was very slow,a cheetah,a turtle,1,1,1582,1,0,0,1,1,2
+A stone is very unfriendly.,Gold is very unfriendly.,a stone,gold,0,0,1585,0,0,0,1,1,2
+A stone is very kind.,Gold is very kind.,a stone,gold,1,1,1585,1,0,0,1,1,2
+A sumo wrestler had a ton of weight on her body.,A ballerina had a ton of weight on her body.,a Sumo wrestler,a ballerina,0,0,1595,0,1,0,0,0,1
+A sumo wrestler was very thin.,A ballerina was very thin.,a Sumo wrestler,a ballerina,1,1,1595,1,1,0,0,0,1
+A tall tale from paul bunyan is not valid,Einstein's best work is not valid,A tall tale from Paul Bunyan,Einstein's best work,0,0,1604,1,1,0,0,0,1
+A tall tale from paul bunyan is very solid and valid,Einstein's best work is very solid and valid,A tall tale from Paul Bunyan,Einstein's best work,1,1,1604,1,1,0,0,0,1
+"A good novel was interesting, well-written, and engaging to the reader.","The work of a middle school journalist was interesting, well-written, and engaging to the reader.",a good novel,the work of a middle school journalist,0,0,1609,0,1,1,0,0,2
+"A good novel was amateurish, sloppily-written, and simplistic.","The work of a middle school journalist was amateurish, sloppily-written, and simplistic.",a good novel,the work of a middle school journalist,1,1,1609,1,1,1,0,0,2
+An infinity pool could pay attention for a long time.,An oompa loompa could pay attention for a long time.,an infinity pool,an Oompa Loompa,0,0,1614,0,1,0,0,0,1
+An infinity pool could not pay attention.,An oompa loompa could not pay attention.,an infinity pool,an Oompa Loompa,1,1,1614,1,1,0,0,0,1
+A nursing home is senile.,A kindergarten classroom is senile.,a nursing home,a kindergarten classroom,0,0,1616,1,1,0,0,0,1
+A nursing home is immature.,A kindergarten classroom is immature.,a nursing home,a kindergarten classroom,1,1,1616,1,1,0,0,0,1
+An artist has a good imagination,A rock has a good imagination,an artist,a rock,0,0,1629,1,0,0,0,1,1
+An artist has no imagination,A rock has no imagination,an artist,a rock,1,1,1629,0,0,0,0,1,1
+A raging bull was very mad,A kitten was very mad,a raging bull,a kitten,0,0,1640,1,1,0,0,0,1
+A raging bull was not mad,A kitten was not mad,a raging bull,a kitten,1,1,1640,0,1,0,0,0,1
+Two sparkling emeralds were bright green,The waves of the ocean were bright green,two sparkling emeralds,the waves of the ocean,0,0,1644,0,1,0,0,0,1
+Two sparkling emeralds were blue,The waves of the ocean were blue,two sparkling emeralds,the waves of the ocean,1,1,1644,1,1,0,0,0,1
+Sawdust tastes terrible.,Sunny delight tastes terrible.,sawdust,Sunny Delight,0,0,1649,0,1,0,0,0,1
+Sawdust tastes wonderful.,Sunny delight tastes wonderful.,sawdust,Sunny Delight,1,1,1649,1,1,0,0,0,1
+The dog poop on my shoe was ugly.,The flower that blooms once per year was ugly.,the dog poop on my shoe,the flower that blooms once per year,0,0,1650,1,1,0,0,1,2
+The dog poop on my shoe was beautiful.,The flower that blooms once per year was beautiful.,the dog poop on my shoe,the flower that blooms once per year,1,1,1650,0,1,0,0,1,2
+A dice missing a side is unlucky.,A full bag of dice is unlucky.,a dice missing a side,a full bag of dice,0,0,1654,1,1,0,0,1,2
+A dice missing a side is lucky.,A full bag of dice is lucky.,a dice missing a side,a full bag of dice,1,1,1654,0,1,0,0,1,2
+A casino is mostly based on luck.,Poker is mostly based on luck.,a casino,poker,0,0,1657,0,1,0,0,0,1
+A casino is mostly based on skill.,Poker is mostly based on skill.,a casino,poker,1,1,1657,1,1,0,0,0,1
+El paso is very hot.,A snowball is very hot.,El Paso,a snowball,0,0,1660,1,1,0,0,0,1
+El paso is not hot at all.,A snowball is not hot at all.,El Paso,a snowball,1,1,1660,0,1,0,0,0,1
+"A goddess is a very good, gentle and kind-hearted person","A  mad cow is a very good, gentle and kind-hearted person",a goddess,a  mad cow,0,0,1663,1,1,0,0,0,1
+"A goddess is a crazy, stupid or an annoying person","A  mad cow is a crazy, stupid or an annoying person",a goddess,a  mad cow,1,1,1663,1,1,0,0,0,1
+A new york times headline has an interesting personality.,A grocery list has an interesting personality.,a New York Times headline,a grocery list,0,0,1665,0,1,0,0,0,1
+A new york times headline has no personality.,A grocery list has no personality.,a New York Times headline,a grocery list,1,1,1665,1,1,0,0,0,1
+A dirty junkyard had a bad atmosphere,A palace of gold had a bad atmosphere,A dirty junkyard,A palace of gold,0,0,1668,1,1,0,0,0,1
+A dirty junkyard had a good atmosphere,A palace of gold had a good atmosphere,A dirty junkyard,A palace of gold,1,1,1668,0,1,0,0,0,1
+A starving racoon is greedy,A a nun is greedy,a starving racoon,a a nun,0,0,1670,1,1,0,0,0,1
+A starving racoon is nice,A a nun is nice,a starving racoon,a a nun,1,1,1670,0,1,0,0,0,1
+The devil is mean,An angel is mean,the devil,an angel,0,0,1671,1,0,0,1,0,1
+The devil is nice,An angel is nice,the devil,an angel,1,1,1671,0,0,0,1,0,1
+The gods venus and hathor was quite beautiful,The ugly duckling was quite beautiful,the gods Venus and Hathor,the Ugly Duckling,0,0,1673,0,1,0,0,0,1
+The gods venus and hathor was very ugly,The ugly duckling was very ugly,the gods Venus and Hathor,the Ugly Duckling,1,1,1673,1,1,0,0,0,1
+A sunset is beautiful,Warthog is beautiful,a sunset,warthog,0,0,1678,1,1,0,0,0,1
+A sunset is ugly,Warthog is ugly,a sunset,warthog,1,1,1678,0,1,0,0,0,1
+Tik tok was trendy,Myspace was trendy,Tik Tok,MySpace,0,0,1679,1,1,0,0,0,1
+Tik tok was outdated,Myspace was outdated,Tik Tok,MySpace,1,1,1679,0,1,0,0,0,1
+A kitty pool is not emotionally-open,A great lake is not emotionally-open,a kitty pool,a great lake,0,0,1686,0,1,0,0,0,1
+A kitty pool is very open emotionally,A great lake is very open emotionally,a kitty pool,a great lake,1,1,1686,1,1,0,0,0,1
+A politician doesn't have integrity.,A monk doesn't have integrity.,a politician,a monk,0,0,1689,1,1,1,0,0,2
+A politician has a lot of integrity.,A monk has a lot of integrity.,a politician,a monk,1,1,1689,0,1,1,0,0,2
+A fresh winter snow was very intriguing.,A dull stone was very intriguing.,a fresh winter snow,a dull stone,0,0,1692,0,1,0,0,0,1
+A fresh winter snow was very boring.,A dull stone was very boring.,a fresh winter snow,a dull stone,1,1,1692,1,1,0,0,0,1
+A feather was so thin she was wispy.,A blown-up balloon was so thin she was wispy.,a feather,a blown-up balloon,0,0,1700,1,1,0,0,0,1
+A feather was very fat.,A blown-up balloon was very fat.,a feather,a blown-up balloon,1,1,1700,1,1,0,0,0,1
+Abraham lincoln's log cabin is small.,The taj mahal is small.,Abraham Lincoln's log cabin,the Taj Mahal,0,0,1706,0,0,0,1,0,1
+Abraham lincoln's log cabin is big.,The taj mahal is big.,Abraham Lincoln's log cabin,the Taj Mahal,1,1,1706,1,0,0,1,0,1
+A winning racehorse can run really well.,A dying nag can run really well.,a winning racehorse,a dying nag,0,0,1716,1,1,0,0,0,1
+A winning racehorse cannot run really well.,A dying nag cannot run really well.,a winning racehorse,a dying nag,1,1,1716,0,1,0,0,0,1
+A kiddie pool is superficial.,The grand canyon is superficial.,a kiddie pool,the Grand Canyon,0,0,1726,1,1,0,0,0,1
+A kiddie pool is profound.,The grand canyon is profound.,a kiddie pool,the Grand Canyon,1,1,1726,1,1,0,0,0,1
+Lukewarm coffee is flat.,An antacid tablet is flat.,lukewarm coffee,an antacid tablet,0,0,1728,0,1,0,0,0,1
+Lukewarm coffee is bubbly.,An antacid tablet is bubbly.,lukewarm coffee,an antacid tablet,1,1,1728,1,1,0,0,0,1
+A god was powerful,An insect was powerful,a god,an insect,0,0,1732,1,1,0,0,0,1
+A god was nearly powerless,An insect was nearly powerless,a god,an insect,1,1,1732,0,1,0,0,0,1
+A derelict fortress is weak.,A weapon of war is weak.,a derelict fortress,a weapon of war,0,0,1755,0,1,0,0,0,1
+A derelict fortress is strong.,A weapon of war is strong.,a derelict fortress,a weapon of war,1,1,1755,1,1,0,0,0,1
+A hurricane was good.,A damp sidewalk was good.,a hurricane,a damp sidewalk,0,0,1763,1,1,0,0,0,1
+A hurricane was bad.,A damp sidewalk was bad.,a hurricane,a damp sidewalk,1,1,1763,1,1,0,0,0,1
+A sound from a lighthouse is well-explained,A pollution storm is well-explained,a sound from a lighthouse,a pollution storm,0,0,1770,1,0,0,1,0,1
+A sound from a lighthouse is vague,A pollution storm is vague,a sound from a lighthouse,a pollution storm,1,1,1770,0,0,0,1,0,1
+One's best friend can be a great asset,One's bitter enemy can be a great asset,one's Best friend,one's Bitter enemy,0,0,1788,0,0,0,1,0,1
+One's best friend can be a great detriment,One's bitter enemy can be a great detriment,one's Best friend,one's Bitter enemy,1,1,1788,1,0,0,1,0,1
+A desert was very warm.,A iceberg was very warm.,a desert,a iceberg,0,0,1790,1,1,0,0,0,1
+A desert was very cold.,A iceberg was very cold.,a desert,a iceberg,1,1,1790,1,1,0,0,0,1
+A sidewalk littered with broken glass is hard,A persian cat is hard,a sidewalk littered with broken glass,a Persian cat,0,0,1797,1,1,0,0,0,1
+A sidewalk littered with broken glass is soft,A persian cat is soft,a sidewalk littered with broken glass,a Persian cat,1,1,1797,0,1,0,0,0,1
+A cheese grater has rough bark.,A fireman's pole has rough bark.,a cheese grater,a fireman's pole,0,0,1809,0,0,0,1,0,1
+A cheese grater has smooth bark.,A fireman's pole has smooth bark.,a cheese grater,a fireman's pole,1,1,1809,0,0,0,1,0,1
+A-b-c was easy,A beast was easy,A-B-C,A beast,0,0,1814,1,0,0,1,0,1
+A-b-c was difficult,A beast was difficult,A-B-C,A beast,1,1,1814,0,0,0,1,0,1
+A evil genius is a highly intelligent person,A field mouse is a highly intelligent person,a evil genius,a field mouse,0,0,1816,1,1,0,0,0,1
+A evil genius is basically a dumb animal,A field mouse is basically a dumb animal,a evil genius,a field mouse,1,1,1816,1,1,0,0,0,1
+Clear water was easy and simple to understand,Mud was easy and simple to understand,clear water,mud,0,0,1821,1,1,0,0,0,1
+Clear water made to sense.,Mud made to sense.,clear water,mud,1,1,1821,0,1,0,0,0,1
