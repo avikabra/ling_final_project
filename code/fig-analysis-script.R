@@ -31,4 +31,3 @@ model <- glm(
 )
 
 summary(model)
-
